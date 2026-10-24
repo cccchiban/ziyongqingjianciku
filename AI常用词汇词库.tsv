@@ -1,0 +1,327 @@
+算法	suan4 fa3	1120
+数据	shu4 ju4	1120
+模型	mo2 xing2	1120
+训练	xun4 lian4	1120
+开源	kai1 yuan2	1120
+上下文	shang4 xia4 wen2	1120
+参数	can1 shu4	1120
+数据集	shu4 ju4 ji2	1120
+标注	biao1 zhu4	1120
+ChatGPT	C h a t G P T	1120
+DeepSeek	D e e p S e e k	1120
+豆包	dou4 bao1	1120
+元宝	yuan2 bao3	1120
+Kimi	K i m i	1120
+通义千问	tong1 yi4 qian1 wen4	1120
+文心一言	wen2 xin1 yi1 yan2	1120
+智谱清言	zhi4 pu3 qing1 yan2	1120
+讯飞星火	xun4 fei1 xing1 huo3	1120
+Claude	C l a u d e	1120
+Gemini	G e m i n i	1120
+Copilot	C o p i l o t	1120
+大肥鱼	da4 fei2 yu2	1120
+AI	A I	1120
+AGI	A G I	1120
+向量	xiang4 liang4	1120
+量化	liang4 hua4	1120
+Transformer	T r a n s f o r m e r	1000
+注意力机制	zhu4 yi4 li4 ji1 zhi4	1000
+自注意力	zi4 zhu4 yi4 li4	1000
+Token	T o k e n	1000
+tokenizer	t o k e n i z e r	1000
+词向量	ci2 xiang4 liang4	1000
+Embedding	E m b e d d i n g	1000
+向量数据库	xiang4 liang4 shu4 ju4 ku4	1000
+RAG	R A G	1000
+Agent	A g e n t	1000
+MCP	M C P	1000
+模型上下文协议	mo2 xing2 shang4 xia4 wen2 xie2 yi4	1000
+LoRA	L o R A	1000
+RLHF	R L H F	1000
+DPO	D P O	1000
+SFT	S F T	1000
+CoT	C o T	1000
+Few-shot	F e w - s h o t	1000
+Zero-shot	Z e r o - s h o t	1000
+系统提示词	xi4 tong3 ti2 shi4 ci2	1000
+温度	wen1 du4	1000
+采样	cai3 yang4	1000
+贪心解码	tan1 xin1 jie3 ma3	1000
+过拟合	guo4 ni3 he2	1000
+欠拟合	qian4 ni3 he2	1000
+损失函数	sun3 shi1 han2 shu4	1000
+梯度下降	ti1 du4 xia4 jiang4	1000
+反向传播	fan3 xiang4 chuan2 bo1	1000
+学习率	xue2 xi2 lv4	1000
+轮次	lun2 ci4	1000
+批次	pi1 ci4	1000
+epoch	e p o c h	1000
+batch	b a t c h	1000
+超参数	chao1 can1 shu4	1000
+剪枝	jian3 zhi1	1000
+知识蒸馏	zhi1 shi5 zheng1 liu2	1000
+推理加速	tui1 li3 jia1 su4	1000
+显存	xian3 cun2	1000
+显卡	xian3 ka3	1000
+GPU	G P U	1000
+TPU	T P U	1000
+NPU	N P U	1000
+集群	ji2 qun2	1000
+分布式训练	fen1 bu4 shi4 xun4 lian4	1000
+数据清洗	shu4 ju4 qing1 xi3	1000
+数据增强	shu4 ju4 zeng1 qiang2	1000
+评测集	ping2 ce4 ji2	1000
+幻觉抑制	huan4 jue2 yi4 zhi4	1000
+越狱	yue4 yu4	1000
+内容安全	nei4 rong2 an1 quan2	1000
+对齐税	dui4 qi2 shui4	1000
+上下文工程	shang4 xia4 wen2 gong1 cheng2	1000
+循环工程	xun2 huan2 gong1 cheng2	1000
+图工程	tu2 gong1 cheng2	1000
+脚手架	jiao3 shou3 jia4	1000
+工具调用	gong1 ju4 diao4 yong4	1000
+多智能体	duo1 zhi4 neng2 ti3	1000
+A2A	A 2 A	1000
+结构化输出	jie2 gou4 hua4 shu1 chu1	1000
+JSON模式	J S O N mo2 shi4	1000
+缓存命中	huan3 cun2 ming4 zhong4	1000
+前缀缓存	qian2 zhui4 huan3 cun2	1000
+推理成本	tui1 li3 cheng2 ben3	1000
+按量计费	an4 liang2 ji4 fei4	1000
+API	A P I	1000
+SDK	S D K	1000
+私有化部署	si1 you3 hua4 bu4 shu3	1000
+本地部署	ben3 di4 bu4 shu3	1000
+端侧模型	duan1 ce4 mo2 xing2	1000
+小模型	xiao3 mo2 xing2	1000
+MoE	M o E	1000
+混合专家	hun4 he2 zhuan1 jia1	1000
+稠密模型	chou2 mi4 mo2 xing2	1000
+稀疏激活	xi1 shu1 ji1 huo2	1000
+上下文压缩	shang4 xia4 wen2 ya1 suo1	1000
+记忆系统	ji4 yi4 xi4 tong3	1000
+外挂记忆	wai4 gua4 ji4 yi4	1000
+会话压缩	hui4 hua4 ya1 suo1	1000
+机器人流程自动化	ji1 qi4 ren2 liu2 cheng2 zi4 dong4 hua4	1000
+RPA	R P A	1000
+语音识别	yu3 yin1 shi2 bie2	1000
+语音合成	yu3 yin1 he2 cheng2	1000
+图像生成	tu2 xiang4 sheng1 cheng2	1000
+图生视频	tu2 sheng1 shi4 pin2	1000
+扩散模型	kuo4 san4 mo2 xing2	1000
+生成对抗网络	sheng1 cheng2 dui4 kang4 wang3 luo4	1000
+自监督学习	zi4 jian1 du1 xue2 xi2	1000
+奖励模型	jiang3 li4 mo2 xing2	1000
+人类反馈	ren2 lei4 fan3 kui4	1000
+偏好对齐	pian1 hao3 dui4 qi2	1000
+安全对齐	an1 quan2 dui4 qi2	1000
+价值对齐	jia4 zhi2 dui4 qi2	1000
+可解释性	ke3 jie3 shi4 xing4	1000
+能力地图	neng2 li4 di4 tu2	1000
+基准分数	ji1 zhun3 fen1 shu4	1000
+排行榜	pai2 hang2 bang3	1000
+文心一格	wen2 xin1 yi1 ge2	1000
+混元	hun4 yuan2	1000
+通义万相	tong1 yi4 wan4 xiang1	1000
+即梦	ji2 meng4	1000
+可灵	ke3 ling2	1000
+可图	ke3 tu2	1000
+海螺AI	hai3 luo2 A I	1000
+纳米AI	na4 mi3 A I	1000
+秘塔	mi4 ta3	1000
+百川	bai3 chuan1	1000
+零一万物	ling2 yi1 wan4 wu4	1000
+MiniMax	M i n i M a x	1000
+商汤日日新	shang1 tang1 ri4 ri4 xin1	1000
+书生	shu1 sheng1	1000
+紫东太初	zi3 dong1 tai4 chu1	1000
+盘古	pan2 gu3	1000
+悟道	wu4 dao4	1000
+天工	tian1 gong1	1000
+D老师	D lao3 shi1	1000
+碟仙	die2 xian1	1000
+小鲸鱼	xiao3 jing1 yu2	1000
+糖包	tang2 bao1	1000
+K老师	K lao3 shi1	1000
+G老师	G lao3 shi1	1000
+位置编码	wei4 zhi4 bian1 ma3	900
+残差连接	can2 cha4 lian2 jie1	900
+层归一化	ceng2 gui1 yi1 hua4	900
+激活函数	ji1 huo2 han2 shu4	900
+softmax	s o f t m a x	900
+logits	l o g i t s	900
+贪心搜索	tan1 xin1 sou1 suo3	900
+束搜索	shu4 sou1 suo3	900
+top-p	t o p - p	900
+温度系数	wen1 du4 xi4 shu4	900
+重复惩罚	chong2 fu4 cheng2 fa2	900
+困惑度	kun4 huo4 du4	900
+交叉熵	jiao1 cha1 shang1	900
+余弦相似度	yu2 xian2 xiang1 si4 du4	900
+点积	dian3 ji1	900
+归一化	gui1 yi1 hua4	900
+降维	jiang4 wei2	900
+聚类	ju4 lei4	900
+分类	fen1 lei4	900
+回归	hui2 gui1	900
+监督学习	jian1 du1 xue2 xi2	900
+无监督学习	wu2 jian1 du1 xue2 xi2	900
+半监督学习	ban4 jian1 du1 xue2 xi2	900
+迁移学习	qian1 yi2 xue2 xi2	900
+元学习	yuan2 xue2 xi2	900
+联邦学习	lian2 bang1 xue2 xi2	900
+持续学习	chi2 xu4 xue2 xi2	900
+灾难性遗忘	zai1 nan4 xing4 yi2 wang4	900
+指令微调	zhi3 ling4 wei1 diao4	900
+指令遵循	zhi3 ling4 zun1 xun2	900
+对齐阶段	dui4 qi2 jie1 duan4	900
+偏好数据	pian1 hao3 shu4 ju4	900
+标注规范	biao1 zhu4 gui1 fan4	900
+数据配方	shu4 ju4 pei4 fang1	900
+数据配比	shu4 ju4 pei4 bi3	900
+上下文学习	shang4 xia4 wen2 xue2 xi2	900
+思维树	si1 wei2 shu4	900
+自我反思	zi4 wo3 fan3 si1	900
+自我一致性	zi4 wo3 yi2 zhi4 xing4	900
+规划	gui1 hua4	900
+任务分解	ren4 wu4 fen1 jie3	900
+记忆检索	ji4 yi4 jian3 suo3	900
+语义检索	yu3 yi4 jian3 suo3	900
+关键词检索	guan1 jian4 ci2 jian3 suo3	900
+混合检索	hun4 he2 jian3 suo3	900
+重排序	chong2 pai2 xu4	900
+召回率	zhao4 hui2 lv4	900
+精确率	jing1 que4 lv4	900
+切片	qie1 pian4	900
+分块	fen1 kuai4	900
+索引	suo3 yin3	900
+知识图谱	zhi1 shi5 tu2 pu3	900
+实体识别	shi2 ti3 shi2 bie2	900
+关系抽取	guan1 xi4 chou1 qu3	900
+文档解析	wen2 dang4 jie3 xi1	900
+OCR	O C R	900
+表格识别	biao3 ge2 shi2 bie2	900
+多轮对话	duo1 lun2 dui4 hua4	900
+会话状态	hui4 hua4 zhuang4 tai4	900
+对话管理	dui4 hua4 guan3 li3	900
+机器人	ji1 qi4 ren2	900
+语音唤醒	yu3 yin1 huan4 xing3	900
+唤醒词	huan4 xing3 ci2	900
+声纹	sheng1 wen2	900
+情感分析	qing2 gan3 fen1 xi1	900
+文本分类	wen2 ben3 fen4 lei4	900
+摘要生成	zhai1 yao4 sheng1 cheng2	900
+机器翻译	ji1 qi4 fan1 yi4	900
+代码生成	dai4 ma3 sheng1 cheng2	900
+代码补全	dai4 ma3 bu3 quan2	900
+自动化测试	zi4 dong4 hua4 ce4 shi4	900
+静态分析	jing4 tai4 fen1 xi1	900
+安全审计	an1 quan2 shen3 ji4	900
+供应链安全	gong1 ying4 lian4 an1 quan2	900
+模型权重	mo2 xing2 quan2 zhong4	900
+检查点	jian3 cha2 dian3	900
+推理框架	tui1 li3 kuang1 jia4	900
+推理引擎	tui1 li3 yin3 qing2	900
+张量	zhang1 liang4	900
+算子	suan4 zi5	900
+混合精度	hun4 he2 jing1 du4	900
+低精度	di1 jing1 du4	900
+算力集群	suan4 li4 ji2 qun2	900
+算力调度	suan4 li4 diao4 du4	900
+模型服务	mo2 xing2 fu2 wu4	900
+模型网关	mo2 xing2 wang3 guan1	900
+网关路由	wang3 guan1 lu4 you2	900
+灰度发布	hui1 du4 fa1 bu4	900
+A/B测试	A / B ce4 shi4	900
+线上评测	xian4 shang4 ping2 ce4	900
+人机协同	ren2 ji1 xie2 tong2	900
+标注平台	biao1 zhu4 ping2 tai2	900
+数据飞轮	shu4 ju4 fei1 lun2	900
+反馈闭环	fan3 kui4 bi4 huan2	900
+自动化评测	zi4 dong4 hua4 ping2 ce4	900
+幻觉率	huan4 jue2 lv4	900
+用户意图	yong4 hu4 yi4 tu2	900
+意图识别	yi4 tu2 shi2 bie2	900
+提示模板	ti2 shi4 mu2 ban3	900
+提示词优化	ti2 shi4 ci2 you1 hua4	900
+提示词注入	ti2 shi4 ci2 zhu4 ru4	900
+越狱提示	yue4 yu4 ti2 shi4	900
+对抗样本	dui4 kang4 yang4 ben3	900
+审核策略	shen3 he2 ce4 lve4	900
+兜底话术	dou1 di3 hua4 shu4	900
+结构化输出模式	jie2 gou4 hua4 shu1 chu1 mo2 shi4	800
+上下文工程实践	shang4 xia4 wen2 gong1 cheng2 shi2 jian4	800
+注意力头	zhu4 yi4 li4 tou2	800
+多头注意力	duo1 tou2 zhu4 yi4 li4	800
+查询向量	cha2 xun2 xiang4 liang4	800
+键向量	jian4 xiang4 liang4	800
+值向量	zhi2 xiang4 liang4	800
+掩码	yan3 ma3	800
+因果掩码	yin1 guo3 yan3 ma3	800
+词表	ci2 biao3	800
+字节对编码	zi4 jie2 dui4 bian1 ma3	800
+BPE	B P E	800
+分词器	fen1 ci2 qi4	800
+特殊标记	te4 shu1 biao1 ji4	800
+序列长度	xu4 lie4 chang2 du4	800
+填充	tian2 chong1	800
+截断	jie2 duan4	800
+批次大小	pi1 ci4 da4 xiao3	800
+梯度累积	ti1 du4 lei3 ji1	800
+混合精度训练	hun4 he2 jing1 du4 xun4 lian4	800
+分布式并行	fen1 bu4 shi4 bing4 xing2	800
+张量并行	zhang1 liang4 bing4 xing2	800
+流水线并行	liu2 shui3 xian4 bing4 xing2	800
+数据并行	shu4 ju4 bing4 xing2	800
+通信开销	tong1 xin4 kai1 xiao1	800
+检查点恢复	jian3 cha2 dian3 hui1 fu4	800
+断点续训	duan4 dian3 xu4 xun4	800
+训练日志	xun4 lian4 ri4 zhi4	800
+评测指标	ping2 ce4 zhi3 biao1	800
+人工评测	ren2 gong1 ping2 ce4	800
+众包标注	zhong4 bao1 biao1 zhu4	800
+黄金集	huang2 jin1 ji2	800
+对抗评测	dui4 kang4 ping2 ce4	800
+渗透测试	shen4 tou4 ce4 shi4	800
+内容过滤	nei4 rong2 guo4 lv4	800
+敏感词	min3 gan3 ci2	800
+脱敏	tuo1 min3	800
+占位符	zhan4 wei4 fu2	800
+隐私计算	yin3 si1 ji4 suan4	800
+差分隐私	cha1 fen1 yin3 si1	800
+版权溯源	ban3 quan2 su4 yuan2	800
+著作权风险	zhu4 zuo4 quan2 feng1 xian3	800
+合规审查	he2 gui1 shen3 cha2	800
+生成式服务管理	sheng1 cheng2 shi4 fu2 wu4 guan3 li3	800
+标识义务	biao1 shi2 yi4 wu4	800
+数据合规	shu4 ju4 he2 gui1	800
+AI编程助手	A I bian1 cheng2 zhu4 shou3	800
+光标补全	guang1 biao1 bu3 quan2	800
+仓库级检索	cang1 ku4 ji2 jian3 suo3	800
+单元测试生成	dan1 yuan2 ce4 shi4 sheng1 cheng2	800
+重构建议	chong2 gou4 jian4 yi4	800
+知识问答	zhi1 shi5 wen4 da2	800
+客服机器人	ke4 fu2 ji1 qi4 ren2	800
+智能客服	zhi4 neng2 ke4 fu2	800
+语音助手	yu3 yin1 zhu4 shou3	800
+会议纪要	hui4 yi4 ji4 yao4	800
+文档问答	wen2 dang4 wen4 da2	800
+报表生成	bao4 biao3 sheng1 cheng2	800
+数据分析助手	shu4 ju4 fen1 xi1 zhu4 shou3	800
+科研助手	ke1 yan2 zhu4 shou3	800
+论文阅读	lun4 wen2 yue4 du2	800
+自动摘要	zi4 dong4 zhai1 yao4	800
+写作助手	xie3 zuo4 zhu4 shou3	800
+翻译助手	fan1 yi4 zhu4 shou3	800
+润色	run4 se4	800
+改写	gai3 xie3	800
+扩写	kuo4 xie3	800
+图片编辑	tu2 pian4 bian1 ji2	800
+局部重绘	ju2 bu4 zhong4 hui4	800
+风格迁移	feng1 ge2 qian1 yi2	800
+超分辨率	chao1 fen1 bian4 lv4	800
+去噪	qu4 zao4	800
+抠图	kou1 tu2	800
+虚拟形象	xu1 ni3 xing2 xiang4	800
+动作捕捉	dong4 zuo4 bu3 zhuo1	800
+变声	bian4 sheng1	800
