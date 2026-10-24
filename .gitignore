@@ -1,2 +1,5 @@
 .omnicrawl/
 *.omnicrawl.edit.lock
+.omnicrawl_work/
+__pycache__/
+*.pyc
