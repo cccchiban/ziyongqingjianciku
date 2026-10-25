@@ -24,7 +24,10 @@ CHAR = re.compile(u"([^\\s（(，、。；：!？]{2,16})\\s*[（(]\\s*([^（）
 # 关系/身份描述，不是人名
 NOT_NAME = re.compile(u"(的母亲|的父亲|的祖母|的祖父|的爷爷|的奶奶|的姐姐|的妹妹|的哥哥"
                       u"|的弟弟|的店主|的女儿|的儿子|的妻子|的丈夫|的恋人"
-                      u"|旁白|解说| narrat|主人公|主角|主角群)$")
+                      u"|旁白|主人公|主角群)$")
+# 维基角色表里「已知亲属有母亲（鈴木の母，声：…）、父亲（鈴木の父，声：…）」
+# 这类条目：带「已知亲属」前缀，或整条只是「…的母亲/父亲」，都不成词条。
+FAMILY_DESC = re.compile(u"(已知亲属|主要亲属|亲属有|家族有|关系者)")
 # 非中文人名的残留：纯英文、含数字
 BAD = re.compile(u"^[A-Za-z0-9\\s\\.\\-]+$")
 CJK = re.compile(u"[\\u3400-\\u9fff]")
@@ -36,7 +39,7 @@ def extract(text):
     for m in CHAR.finditer(text):
         name = m.group(1).strip()
         jp = m.group(2).strip()
-        if not name or NOT_NAME.search(name):
+        if not name or NOT_NAME.search(name) or FAMILY_DESC.search(name):
             continue
         if not CJK.search(name) or BAD.match(name):
             continue
