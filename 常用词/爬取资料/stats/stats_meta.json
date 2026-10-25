@@ -1,0 +1,33 @@
+{
+  "total_docs": 5437360,
+  "vocab": 641643,
+  "per_source": {
+    "bilibili_comments": {
+      "docs": 4849392,
+      "vocab": 582492
+    },
+    "danmaku": {
+      "docs": 392104,
+      "vocab": 100304
+    },
+    "weibo_senti_100k": {
+      "docs": 118797,
+      "vocab": 121917
+    },
+    "weibo_comments_v1": {
+      "docs": 2307,
+      "vocab": 11898
+    },
+    "online_shopping_10_cats": {
+      "docs": 62773,
+      "vocab": 59995
+    },
+    "waimai_10k": {
+      "docs": 11987,
+      "vocab": 9511
+    }
+  },
+  "min_len": 2,
+  "max_len": 4,
+  "generated": "2026-10-25 23:17:29"
+}
