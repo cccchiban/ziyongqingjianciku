@@ -118,7 +118,7 @@ JUNK_SET = set(JUNK)
 
 
 def existing_words():
-    skip = {"综合词库.qj", "游戏/游戏词库合集.qj"}
+    skip = {"综合词库.qj", "综合词库.tsv", "游戏/游戏词库合集.qj"}
     words = set()
     for pat in ("*.tsv", "*.qj", "*/*.tsv", "*/*.qj"):
         for p in REPO.glob(pat):
