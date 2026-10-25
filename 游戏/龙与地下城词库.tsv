@@ -150,6 +150,7 @@
 反魔法力场	fan3 mo2 fa3 li4 chang3	760
 防死结界	fang2 si3 jie2 jie4	760
 飞行术	fei1 xing2 shu4	760
+缚灵	fu4 ling2	760
 复生术	fu4 sheng1 shu4	760
 复原术	fu4 yuan2 shu4	760
 高等复原术	gao1 deng3 fu4 yuan2 shu4	760
@@ -160,12 +161,15 @@
 混乱中立	hun4 luan4 zhong1 li4	760
 火墙术	huo3 qiang2 shu4	760
 火球术	huo3 qiu2 shu4	760
+击晕	ji1 yun1	760
 加速术	jia1 su4 shu4	760
 解离术	jie3 li2 shu4	760
 镜影术	jing4 ying3 shu4	760
 巨剑	ju4 jian4	760
 卷轴	juan4 zhou2	760
 绝对中立	jue2 dui4 zhong1 li4	760
+力竭	li4 jie2	760
+链甲	lian4 jia3	760
 魅惑人类	mei4 huo4 ren2 lei4	760
 魔法袋	mo2 fa3 dai4	760
 魔法飞弹	mo2 fa3 fei1 dan4	760
@@ -174,10 +178,16 @@
 魔法卷轴	mo2 fa3 juan4 zhou2	760
 魔法武器	mo2 fa3 wu3 qi4	760
 魔杖	mo2 zhang4	760
+目盲	mu4 mang2	760
+泥怪	ni2 guai4	760
 皮甲	pi2 jia3	760
 祈愿术	qi2 yuan4 shu4	760
 任意门	ren4 yi4 men2	760
 闪电束	shan3 dian4 shu4	760
+神恩	shen2 en1	760
+神佑	shen2 you4	760
+圣疗	sheng4 liao2	760
+尸妖	shi1 yao1	760
 石肤术	shi2 fu1 shu4	760
 时间停止	shi2 jian1 ting2 zhi3	760
 十字弓	shi2 zi4 gong1	760
@@ -186,9 +196,12 @@
 守序中立	shou3 xu4 zhong1 li4	760
 睡眠术	shui4 mian2 shu4	760
 死者复活	si3 zhe3 fu4 huo2	760
+宿敌	su4 di2	760
+弯刀	wan1 dao1	760
 亡灵天灾	wang2 ling2 tian1 zai1	760
 药水	yao4 shui3	760
 隐形术	yin3 xing2 shu4	760
+幽影	you1 ying3	760
 羽落术	yu3 luo4 shu4	760
 召唤元素	zhao4 huan4 yuan2 su4	760
 侦测魔法	zhen1 ce4 mo2 fa3	760
@@ -199,20 +212,2247 @@
 中立邪恶	zhong1 li4 xie2 e4	760
 蛛网术	zhu1 wang3 shu4	760
 祝福术	zhu4 fu2 shu4	760
+寒冰锥	han2 bing1 zhui1	755
+链甲衫	lian4 jia3 shan1	755
+流星爆	liu2 xing1 bao4	755
+弱智术	ruo4 zhi4 shu4	755
+死云术	si3 yun2 shu4	755
+锈蚀怪	xiu4 shi2 guai4	755
+英雄宴	ying1 xiong2 yan4	755
+密探	mi4 tan4	750
+攀爬	pan1 pa2	750
+雾遁	wu4 dun4	750
+邪魔	xie2 mo2	750
+矮斧	ai3 fu3	745
+暗算	an4 suan4	745
+奥图迷舞	ao4 tu2 mi2 wu3	745
+白鳞	bai2 lin2	745
+半身	ban4 shen1	745
+绊摔	ban4 shuai1	745
+贝铁	bei4 tie3	745
+碧刃	bi4 ren4	745
+残害	can2 hai4	745
+缠根	chan2 gen1	745
+炽焰	chi4 yan4	745
+穿创	chuan1 chuang4	745
+德墓	de2 mu4	745
+镀银	du4 yin2	745
+断筋	duan4 jin1	745
+反曲	fan3 qu1	745
+反射闪避	fan3 she4 shan3 bi4	745
+防恐	fang2 kong3	745
+供水	gong1 shui3	745
+构装	gou4 zhuang1	745
+挂毯	gua4 tan3	745
+寒铁	han2 tie3	745
+黑鳞	hei1 lin2	745
+回蓝	hui2 lan2	745
+极效	ji2 xiao4	745
+架锤	jia4 chui2	745
+架斧	jia4 fu3	745
+架矛	jia4 mao2	745
+精金	jing1 jin1	745
+精摔	jing1 shuai1	745
+寇刀	kou4 dao1	745
+蓝鳞	lan2 lin2	745
+灵活移动	ling2 huo2 yi2 dong4	745
+龙鳞	long2 lin2	745
+马友夫强酸箭	ma3 you3 fu1 qiang2 suan1 jian4	745
+猫毛	mao1 mao2	745
+猛力	meng3 li4	745
+迷魂	mi2 hun2	745
+秘银	mi4 yin2	745
+欧提路克冰封法球	ou1 ti2 lu4 ke4 bing1 feng1 fa3 qiu2	745
+破抗	po4 kang4	745
+泣妖	qi4 yao1	745
+强效	qiang2 xiao4	745
+擒抱者	qin2 bao4 zhe3	745
+驱散	qu1 san4	745
+刃裂	ren4 lie4	745
+杀生	sha1 sheng1	745
+神能	shen2 neng2	745
+书页	shu1 ye4	745
+树肤	shu4 fu1	745
+树皮	shu4 pi2	745
+衰弱	shuai1 ruo4	745
+衰虚	shuai1 xu1	745
+瞬发	shun4 fa1	745
+细纱	xi4 sha1	745
+小顺	xiao3 shun4	745
+虚假生命	xu1 jia3 sheng1 ming4	745
+焰击	yan4 ji1	745
+佯攻	yang2 gong1	745
+以太化	yi3 tai4 hua4	745
+易质	yi4 zhi4	745
+银粉	yin2 fen3	745
+永明	yong3 ming2	745
+羽落	yu3 luo4	745
+御守	yu4 shou3	745
+云爆	yun2 bao4	745
+再造	zai4 zao4	745
+增远	zeng1 yuan3	745
+真知	zhen1 zhi1	745
+直觉闪避	zhi2 jue2 shan3 bi4	745
+致跛	zhi4 bo3	745
+重雾	zhong4 wu4	745
+包德里	bao1 de2 li3	740
+宝石盾	bao3 shi2 dun4	740
+不死城	bu4 si3 cheng2	740
+次元门	ci4 yuan2 men2	740
+德里拉	de2 li3 la1	740
+电击雾	dian4 ji1 wu4	740
+断肢者	duan4 zhi1 zhe3	740
+对立者	dui4 li4 zhe3	740
+剁肉锤	duo4 rou4 chui2	740
+恩赐术	en1 ci4 shu4	740
+甘草根	gan1 cao3 gen1	740
+歌法者	ge1 fa3 zhe3	740
+弧形盾	hu2 xing2 dun4	740
+缓慢爆	huan3 man4 bao4	740
+火戮魔	huo3 lu4 mo2	740
+救赎者	jiu4 shu2 zhe3	740
+寇派斯	kou4 pai4 si1	740
+狂暴术	kuang2 bao4 shu4	740
+狂石靴	kuang2 shi2 xue1	740
+破邪斩	po4 xie2 zhan3	740
+祈祷术	qi2 dao3 shu4	740
+启明星	qi3 ming2 xing1	740
+弃梦者	qi4 meng4 zhe3	740
+锐爪盾	rui4 zhao3 dun4	740
+三桶湾	san1 tong3 wan1	740
+杉托克	shan1 tuo1 ke4	740
+射手角	she4 shou3 jiao3	740
+圣光击	sheng4 guang1 ji1	740
+是鸡心	shi4 ji1 xin1	740
+顺势斩	shun4 shi4 zhan3	740
+司莱诺	si1 lai2 nuo4	740
+塔拉克	ta3 la1 ke4	740
+瓦拉克	wa3 la1 ke4	740
+小蜡烛	xiao3 la4 zhu2	740
+小硬棒	xiao3 ying4 bang4	740
+旋风击	xuan2 feng1 ji1	740
+削革者	xue1 ge2 zhe3	740
+血光击	xue4 guang1 ji1	740
+阳炎剑	yang2 yan2 jian4	740
+音鸣爆	yin1 ming2 bao4	740
+右构图	you4 gou4 tu2	740
+陨梦岛	yun3 meng4 dao3	740
+震慑击	zhen4 she4 ji1	740
+制肉者	zhi4 rou4 zhe3	740
+中伤者	zhong4 shang1 zhe3	740
+左构图	zuo3 gou4 tu2	740
+鞍具	an1 ju4	735
+鞍囊	an1 nang2	735
+鞍座	an1 zuo4	735
+黯蚀	an4 shi2	735
+獒犬	ao2 quan3	735
+八环	ba1 huan2	735
+白熊	bai2 xiong2	735
+摆尾	bai3 wei3	735
+半龙	ban4 long2	735
+报偿	bao4 chang2	735
+币制	bi4 zhi4	735
+鞭击	bian1 ji1	735
+扁瓶	bian3 ping2	735
+变形生物	bian4 xing2 sheng1 wu4	735
+冰矛	bing1 mao2	735
+冰魔	bing1 mo2	735
+冰墙	bing1 qiang2	735
+屏息	bing3 xi1	735
+捕网	bu3 wang3	735
+步兵	bu4 bing1	735
+不屈	bu4 qu1	735
+采脑	cai3 nao3	735
+叉击	cha1 ji1	735
+豺狗	chai2 gou3	735
+长笛	chang2 di2	735
+长杆	chang2 gan1	735
+撤离	che4 li2	735
+城际	cheng2 ji4	735
+城内	cheng2 nei4	735
+成体	cheng2 ti3	735
+斥候	chi4 hou4	735
+冲撞	chong1 zhuang4	735
+虫群	chong2 qun2	735
+出神	chu1 shen2	735
+雏龙	chu2 long2	735
+触击	chu4 ji1	735
+触角	chu4 jiao3	735
+触须	chu4 xu1	735
+串刺	chuan4 ci4	735
+吹矢	chui1 shi3	735
+刺盾	ci4 dun4	735
+刺喙	ci4 hui4	735
+刺剑	ci4 jian4	735
+刺针	ci4 zhen1	735
+催眠凝视	cui1 mian2 ning2 shi4	735
+灯油	deng1 you2	735
+电爪	dian4 zhao3	735
+吊桶	diao4 tong3	735
+钉刺	ding1 ci4	735
+顶撞	ding3 zhuang4	735
+冬狼	dong1 lang2	735
+毒标	du2 biao1	735
+毒蛇	du2 she2	735
+读心	du2 xin1	735
+赌具	du3 ju4	735
+短棒	duan3 bang4	735
+盾击	dun4 ji1	735
+钝击	dun4 ji1	735
+遁术	dun4 shu4	735
+多重攻击	duo1 chong2 gong1 ji1	735
+多头	duo1 tou2	735
+躲藏	duo3 cang2	735
+颚齿	e4 chi3	735
+恶臭	e4 chou4	735
+恶鬼	e4 gui3	735
+恶名	e4 ming2	735
+耳聋	er3 long2	735
+法门	fa3 men2	735
+法器	fa3 qi4	735
+法球	fa3 qiu2	735
+飞掠	fei1 lve4	735
+飞马	fei1 ma3	735
+飞矢	fei1 shi3	735
+狒狒	fei4 fei4	735
+粉笔	fen3 bi3	735
+封蜡	feng1 la4	735
+蜂鸣	feng1 ming2	735
+呋噜	fu1 lu1	735
+伏击	fu2 ji1	735
+复生	fu4 sheng1	735
+格挡	ge2 dang3	735
+弓匠	gong1 jiang4	735
+钩击	gou1 ji1	735
+骨魔	gu3 mo2	735
+雇工	gu4 gong1	735
+刮擦	gua1 ca1	735
+光冕	guang1 mian3	735
+光耀	guang1 yao4	735
+鬼火	gui3 huo3	735
+鬼婆	gui3 po2	735
+滚珠	gun3 zhu1	735
+好斗	hao4 dou4	735
+黑豹	hei1 bao4	735
+黑熊	hei1 xiong2	735
+虎人	hu3 ren2	735
+护符	hu4 fu2	735
+护甲	hu4 jia3	735
+护卫	hu4 wei4	735
+滑溜	hua2 liu1	735
+划艇	hua2 ting3	735
+化豺	hua4 chai2	735
+环甲	huan2 jia3	735
+幻术	huan4 shu4	735
+幻形	huan4 xing2	735
+挥砍	hui1 kan3	735
+回气	hui2 qi4	735
+喙啄	hui4 zhuo2	735
+昏迷	hun1 mi2	735
+活化物件	huo2 hua4 wu4 jian4	735
+火蛇	huo3 she2	735
+火童	huo3 tong2	735
+惑控	huo4 kong4	735
+棘魔	ji2 mo2	735
+疾走	ji2 zou3	735
+家仆	jia1 pu2	735
+加值	jia1 zhi2	735
+甲龙	jia3 long2	735
+俭朴	jian3 pu3	735
+箭术	jian4 shu4	735
+箭雨	jian4 yu3	735
+健壮	jian4 zhuang4	735
+降咒	jiang4 zhou4	735
+礁鲨	jiao1 sha1	735
+绞缠	jiao3 chan2	735
+角号	jiao3 hao4	735
+角击	jiao3 ji1	735
+角魔	jiao3 mo2	735
+接石	jie1 shi2	735
+节杖	jie2 zhang4	735
+禁入	jin4 ru4	735
+精类	jing1 lei4	735
+警卫	jing3 wei4	735
+九环	jiu3 huan2	735
+九狱	jiu3 yu4	735
+鹫马	jiu4 ma3	735
+巨棒	ju4 bang4	735
+巨蟾	ju4 chan2	735
+巨锤	ju4 chui2	735
+巨鳄	ju4 e4	735
+巨斧	ju4 fu3	735
+巨獾	ju4 huan1	735
+巨灵	ju4 ling2	735
+巨蟒	ju4 mang3	735
+巨鲨	ju4 sha1	735
+巨鼠	ju4 shu3	735
+巨蛙	ju4 wa1	735
+巨蜥	ju4 xi1	735
+巨蝎	ju4 xie1	735
+巨蟹	ju4 xie4	735
+巨鹰	ju4 ying1	735
+巨鼬	ju4 you4	735
+巨猿	ju4 yuan2	735
+具装	ju4 zhuang1	735
+卷紧	juan3 jin3	735
+卷须	juan3 xu1	735
+掘穴	jue2 xue2	735
+军衔	jun1 xian2	735
+啃咬	ken3 yao3	735
+恐狼	kong3 lang2	735
+雷鸣	lei2 ming2	735
+力场	li4 chang3	735
+立方	li4 fang1	735
+怜悯	lian2 min3	735
+链枷	lian4 jia1	735
+链魔	lian4 mo2	735
+两用	liang3 yong4	735
+鬣狗	lie4 gou3	735
+劣魔	lie4 mo2	735
+鳞甲	lin2 jia3	735
+灵能	ling2 neng2	735
+灵巧	ling2 qiao3	735
+六环	liu4 huan2	735
+龙龟	long2 gui1	735
+龙类	long2 lei4	735
+龙棋	long2 qi2	735
+龙翼	long2 yi4	735
+龙语	long2 yu3	735
+芦笛	lu2 di2	735
+鲁莽	lu3 mang3	735
+路匪	lu4 fei3	735
+鹿鹰	lu4 ying1	735
+轮匠	lun2 jiang4	735
+麻绳	ma2 sheng2	735
+马厩	ma3 jiu4	735
+盲视	mang2 shi4	735
+蟒蛇	mang3 she2	735
+盟友	meng2 you3	735
+猛犸	meng3 ma4	735
+猛扑	meng3 pu1	735
+梦魔	meng4 mo2	735
+麋鹿	mi2 lu4	735
+魔宠	mo2 chong3	735
+魔蝠	mo2 fu2	735
+魔鬼视界	mo2 gui3 shi4 jie4	735
+魔像	mo2 xiang4	735
+魔冢	mo2 zhong3	735
+木匠	mu4 jiang4	735
+木橇	mu4 qiao1	735
+纳迦	na4 jia1	735
+男爵	nan2 jue2	735
+男面	nan2 mian4	735
+拟声	ni3 sheng1	735
+拟形	ni3 xing2	735
+黏着	nian2 zhe5	735
+弩矢	nu3 shi3	735
+女面	nv3 mian4	735
+女妖	nv3 yao1	735
+排箫	pai2 xiao1	735
+抛掷	pao1 zhi4	735
+辔具	pei4 ju4	735
+喷毒	pen1 du2	735
+鹏鸟	peng2 niao3	735
+铺盖	pu1 gai4	735
+匍匐	pu2 fu2	735
+七环	qi1 huan2	735
+漆匠	qi1 jiang4	735
+骑兵	qi2 bing1	735
+骑乘	qi2 cheng2	735
+旗手	qi2 shou3	735
+奇术	qi2 shu4	735
+乞食	qi3 shi2	735
+钳击	qian2 ji1	735
+强酸	qiang2 suan1	735
+撬棍	qiao4 gun4	735
+怯魔	qie4 mo2	735
+擒抱	qin2 bao4	735
+禽爪	qin2 zhao3	735
+轻锤	qing1 chui2	735
+轻甲	qing1 jia3	735
+轻弩	qing1 nu3	735
+轻型	qing1 xing2	735
+穷困	qiong2 kun4	735
+球状	qiu2 zhuang4	735
+拳击	quan2 ji1	735
+权杖	quan2 zhang4	735
+人鱼	ren2 yu2	735
+沙漏	sha1 lou4	735
+蛇发	she2 fa1	735
+蛇人	she2 ren2	735
+射水	she4 shui3	735
+圣徽	sheng4 hui1	735
+圣居	sheng4 ju1	735
+圣木	sheng4 mu4	735
+圣树	sheng4 shu4	735
+施法	shi1 fa3	735
+失能	shi1 neng2	735
+施展法术	shi1 zhan3 fa3 shu4	735
+侍臣	shi4 chen2	735
+侍僧	shi4 seng1	735
+手弩	shou3 nu3	735
+熟习	shu2 xi2	735
+鼠群	shu3 qun2	735
+鼠人	shu3 ren2	735
+树人	shu4 ren2	735
+树跃	shu4 yue4	735
+水诡	shui3 gui3	735
+丝绳	si1 sheng2	735
+死灵	si3 ling2	735
+饲料	si4 liao4	735
+塑能	su4 neng2	735
+算盘	suan4 pan2	735
+锁匠	suo3 jiang4	735
+抬举	tai2 ju3	735
+探知	tan4 zhi1	735
+陶工	tao2 gong1	735
+蹄击	ti2 ji1	735
+提琴	ti2 qin2	735
+跳高	tiao4 gao1	735
+跳远	tiao4 yuan3	735
+铁壶	tie3 hu2	735
+铁匠	tie3 jiang4	735
+桶匠	tong3 jiang4	735
+头领	tou2 ling3	735
+投掷	tou2 zhi4	735
+秃鹫	tu1 jiu4	735
+图腾	tu2 teng2	735
+推撞	tui1 zhuang4	735
+吞没	tun1 mo4	735
+驼役	tuo2 yi4	735
+瓦匠	wa3 jiang4	735
+挽具	wan3 ju4	735
+尾钉	wei3 ding1	735
+尾击	wei3 ji1	735
+尾棘	wei3 ji2	735
+伪龙	wei3 long2	735
+伪足	wei3 zu2	735
+畏火	wei4 huo3	735
+猬魔	wei4 mo2	735
+猬皮	wei4 pi2	735
+蚊蝠	wen2 fu2	735
+纹章	wen2 zhang1	735
+稳步	wen3 bu4	735
+武艺	wu3 yi4	735
+锡匠	xi1 jiang4	735
+玺戒	xi3 jie4	735
+戏法	xi4 fa3	735
+线状	xian4 zhuang4	735
+枭熊	xiao1 xiong2	735
+卸除	xie4 chu2	735
+心石	xin1 shi2	735
+刑鞭	xing2 bian1	735
+行动自如	xing2 dong4 zi4 ru2	735
+凶恶	xiong1 e4	735
+熊人	xiong2 ren2	735
+须刺	xu1 ci4	735
+须魔	xu1 mo2	735
+血鹰	xue4 ying1	735
+蕈人	xun4 ren2	735
+牙撕	ya2 si1	735
+亚种	ya4 zhong3	735
+岩钉	yan2 ding1	735
+掩护	yan3 hu4	735
+厌火	yan4 huo3	735
+厌日	yan4 ri4	735
+扬琴	yang2 qin2	735
+妖鬼	yao1 gui3	735
+妖火	yao1 huo3	735
+一环	yi1 huan2	735
+以太视界	yi3 tai4 shi4 jie4	735
+异怪	yi4 guai4	735
+饮水	yin3 shui3	735
+油灯	you2 deng1	735
+游说	you2 shui4	735
+鼬鼠	you4 shu3	735
+幼体	you4 ti3	735
+鱼叉	yu2 cha1	735
+渔具	yu2 ju4	735
+欲魔	yu4 mo2	735
+预兆	yu4 zhao4	735
+源点	yuan2 dian3	735
+原魔	yuan2 mo2	735
+再生	zai4 sheng1	735
+载重	zai4 zhong4	735
+造粮	zao4 liang2	735
+造妖	zao4 yao1	735
+战锤	zhan4 chui2	735
+战斧	zhan4 fu3	735
+战镐	zhan4 gao3	735
+战舰	zhan4 jian4	735
+战马	zhan4 ma3	735
+战锁	zhan4 suo3	735
+爪击	zhao3 ji1	735
+真菌	zhen1 jun1	735
+整副	zheng3 fu4	735
+掷石	zhi4 shi2	735
+中甲	zhong1 jia3	735
+中型	zhong1 xing2	735
+重甲	zhong4 jia3	735
+重弩	zhong4 nu3	735
+重型	zhong4 xing2	735
+咒法	zhou4 fa3	735
+蛛行	zhu1 xing2	735
+柱状	zhu4 zhuang4	735
+专精	zhuan1 jing1	735
+装填	zhuang1 tian2	735
+装着	zhuang1 zhe5	735
+锥状	zhui1 zhuang4	735
+坠击	zhui4 ji1	735
+紫虫	zi3 chong2	735
+紫蕈	zi3 xun4	735
+子职	zi5 zhi2	735
+宗派	zong1 pai4	735
+棕熊	zong1 xiong2	735
+阿赞提之甲	a1 zan4 ti2 zhi1 jia3	730
+矮人语	ai3 ren2 yu3	730
+矮种马	ai3 zhong3 ma3	730
+艾吉斯之焰	ai4 ji2 si1 zhi1 yan4	730
+暗示术	an4 shi4 shu4	730
+暗影步	an4 ying3 bu4	730
+暗影宗	an4 ying3 zong1	730
+盎司瓶	ang4 si1 ping2	730
+奥喀斯	ao4 ka1 si1	730
+奥塞魔	ao4 sai1 mo2	730
+巴霸魔	ba1 ba4 mo2	730
+巴弗灭	ba1 fu2 mie4	730
+霸王龙	ba4 wang2 long2	730
+板条甲	ban3 tiao2 jia3	730
+半巫妖	ban4 wu1 yao1	730
+半羊人	ban4 yang2 ren2	730
+剥皮师	bao1 pi2 shi1	730
+悲惨黄昏	bei1 can3 huang2 hun1	730
+庇护术	bi4 hu4 shu4	730
+蝙蝠类硫磺球	bian1 fu2 lei4 liu2 huang2 qiu2	730
+蝙蝠群	bian1 fu2 qun2	730
+变巨术	bian4 ju4 shu4	730
+变色龙尾巴	bian4 se4 long2 wei3 ba5	730
+变身术	bian4 shen1 shu4	730
+变形怪	bian4 xing2 guai4	730
+冰风暴	bing1 feng1 bao4	730
+冰魔蝠	bing1 mo2 fu2	730
+冰墙术	bing1 qiang2 shu4	730
+卜筮术	bu3 shi4 shu4	730
+补鞋匠	bu3 xie2 jiang4	730
+不朽凝视	bu4 xiu3 ning2 shi4	730
+不朽身	bu4 xiu3 shen1	730
+不朽信念之剑	bu4 xiu3 xin4 nian4 zhi1 jian4	730
+不知名之戒	bu4 zhi1 ming2 zhi1 jie4	730
+材料包	cai2 liao4 bao1	730
+测量员	ce4 liang2 yuan2	730
+豺狼人	chai2 lang2 ren2	730
+豺狼人皮手套	chai2 lang2 ren2 pi2 shou3 tao4	730
+长柄刀	chang2 bing3 dao1	730
+长铁钉	chang2 tie3 ding1	730
+超巨型	chao1 ju4 xing2	730
+超魔法	chao1 mo2 fa3	730
+抄写员	chao1 xie3 yuan2	730
+朝圣者	chao2 sheng4 zhe3	730
+尘魔蝠	chen2 mo2 fu2	730
+沉默术	chen2 mo4 shu4	730
+成年龙	cheng2 nian2 long2	730
+乘用马	cheng2 yong4 ma3	730
+炽火胶	chi4 huo3 jiao1	730
+赤铜龙	chi4 tong2 long2	730
+炽炎爆	chi4 yan2 bao4	730
+炽焰斩	chi4 yan4 zhan3	730
+冲锋手	chong1 feng1 shou3	730
+臭云术	chou4 yun2 shu4	730
+触发术	chu4 fa1 shu4	730
+触须怪	chu4 xu1 guai4	730
+穿刺者	chuan1 ci4 zhe3	730
+穿墙术	chuan1 qiang2 shu4	730
+穿心创伤	chuan1 xin1 chuang1 shang1	730
+船木工	chuan2 mu4 gong1	730
+传讯术	chuan2 xun4 shu4	730
+次级奥图迷舞	ci4 ji2 ao4 tu2 mi2 wu3	730
+粗腰桶	cu1 yao1 tong3	730
+大袋子	da4 dai4 zi5	730
+大地精	da4 di4 jing1	730
+大法师	da4 fa3 shi1	730
+大魔鬼	da4 mo2 gui3	730
+单元冢	dan1 yuan2 zhong3	730
+刀锋统主斗士	dao1 feng1 tong3 zhu3 dou4 shi4	730
+盗窃犯	dao4 qie4 fan4	730
+迪斯科迷舞	di2 si1 ke1 mi2 wu3	730
+地动术	di4 dong4 shu4	730
+第二吼	di4 er4 hou3	730
+地精语	di4 jing1 yu3	730
+第三吼	di4 san1 hou3	730
+地下城	di4 xia4 cheng2	730
+第一吼	di4 yi1 hou3	730
+地震术	di4 zhen4 shu4	730
+钉头锤	ding1 tou2 chui2	730
+斗殴犯	dou4 ou1 fan4	730
+独角兽尾毛	du2 jiao3 shou4 wei3 mao2	730
+毒蛇群	du2 she2 qun2	730
+渡河费	du4 he2 fei4	730
+镀金师	du4 jin1 shi1	730
+渡鸦群	du4 ya1 qun2	730
+短讯术	duan3 xun4 shu4	730
+对恶徒	dui4 e4 tu2	730
+恶意巨锤	e4 yi4 ju4 chui2	730
+耳聋术	er3 long2 shu4	730
+二元冢	er4 yuan2 zhong3	730
+繁彩球	fan2 cai3 qiu2	730
+反迷惑	fan3 mi2 huo4	730
+放逐术	fang4 zhu2 shu4	730
+放逐斩	fang4 zhu2 zhan3	730
+飞炎击	fei1 yan2 ji1	730
+焚身爆	fen2 shen1 bao4	730
+焚云术	fen2 yun2 shu4	730
+风墙术	feng1 qiang2 shu4	730
+风箱之血	feng1 xiang1 zhi1 xue4	730
+浮空术	fu2 kong1 shu4	730
+弗洛魔	fu2 luo4 mo2	730
+符文食人魔腿骨	fu2 wen2 shi2 ren2 mo2 tui3 gu3	730
+斧嘴鸟	fu3 zui3 niao3	730
+复仇之弦	fu4 chou2 zhi1 xian2	730
+盖顶匠	gai4 ding3 jiang4	730
+钢面镜	gang1 mian4 jing4	730
+高阶祭司之戒	gao1 jie1 ji4 si1 zhi1 jie4	730
+隔离术	ge2 li2 shu4	730
+构装体	gou4 zhuang1 ti3	730
+骨头碎片	gu3 tou5 sui4 pian4	730
+观察力	guan1 cha2 li4	730
+关怀术	guan1 huai2 shu4	730
+光导箭	guang1 dao3 jian4	730
+诡术师	gui3 shu4 shi1	730
+滚石流	gun3 shi2 liu2	730
+过路费	guo4 lu4 fei4	730
+哈玛魔	ha1 ma3 mo2	730
+海鬼婆	hai3 gui3 po2	730
+海啸术	hai3 xiao4 shu4	730
+寒冰披风	han2 bing1 pi1 feng1	730
+寒冰血刃	han2 bing1 xue4 ren4	730
+黑布丁	hei1 bu4 ding1	730
+烘焙师	hong1 bei4 shi1	730
+护盾术	hu4 dun4 shu4	730
+护林员	hu4 lin2 yuan2	730
+滑轮组	hua2 lun2 zu3	730
+还魂尸	huan2 hun2 shi1	730
+缓慢术	huan3 man4 shu4	730
+黄蜂群	huang2 feng1 qun2	730
+黄铜龙	huang2 tong2 long2	730
+灰矮人	hui1 ai3 ren2	730
+徽记术	hui1 ji4 shu4	730
+灰烬之靴	hui1 jin4 zhi1 xue1	730
+灰泥怪	hui1 ni2 guai4	730
+回生术	hui2 sheng1 shu4	730
+绘图员	hui4 tu2 yuan2	730
+混乱遏制者	hun4 luan4 e4 zhi4 zhe3	730
+混元体	hun4 yuan2 ti3	730
+火矮人	huo3 ai3 ren2	730
+火巨灵	huo3 ju4 ling2	730
+火巨灵精英护卫	huo3 ju4 ling2 jing1 ying1 hu4 wei4	730
+火绒盒	huo3 rong2 he2	730
+火焰刀	huo3 yan4 dao1	730
+火焰箭	huo3 yan4 jian4	730
+火族语	huo3 zu2 yu3	730
+基顿魔	ji1 dun4 mo2	730
+激愤斩	ji1 fen4 zhan3	730
+机关泰坦	ji1 guan1 tai4 tan3	730
+激励骰	ji1 li4 tou2	730
+棘雹术	ji2 bao2 shu4	730
+棘墙术	ji2 qiang2 shu4	730
+吉斯人	ji2 si1 ren2	730
+加冕权杖	jia1 mian3 quan2 zhang4	730
+加速晶核	jia1 su4 jing1 he2	730
+甲虫群	jia3 chong2 qun2	730
+甲伏怪	jia3 fu2 guai4	730
+假身份	jia3 shen1 fen4	730
+假死术	jia3 si3 shu4	730
+假象术	jia3 xiang4 shu4	730
+尖叫蕈	jian1 jiao4 xun4	730
+尖啸矿井	jian1 xiao4 kuang4 jing3	730
+尖牙手套	jian1 ya2 shou3 tao4	730
+剑齿虎	jian4 chi3 hu3	730
+鉴定术	jian4 ding4 shu4	730
+剑刃屏障	jian4 ren4 ping2 zhang4	730
+桨帆船	jiang3 fan1 chuan2	730
+交友术	jiao1 you3 shu4	730
+金刚魂	jin1 gang1 hun2	730
+金属龙	jin1 shu3 long2	730
+禁锢术	jin4 gu4 shu4	730
+禁制术	jin4 zhi4 shu4	730
+惊惧斩	jing1 ju4 zhan3	730
+精灵语	jing1 ling2 yu3	730
+警报术	jing3 bao4 shu4	730
+纠缠绳	jiu1 chan2 sheng2	730
+纠缠术	jiu1 chan2 shu4	730
+巨蝙蝠	ju4 bian1 fu2	730
+巨虫术	ju4 chong2 shu4	730
+剧毒灰烬	ju4 du2 hui1 jin4	730
+巨毒蛇	ju4 du2 she2	730
+巨海马	ju4 hai3 ma3	730
+巨黄蜂	ju4 huang2 feng1	730
+巨狼蛛	ju4 lang2 zhu1	730
+巨鬣狗	ju4 lie4 gou3	730
+巨麋鹿	ju4 mi2 lu4	730
+巨牛魔	ju4 niu2 mo2	730
+巨人语	ju4 ren2 yu3	730
+巨山羊	ju4 shan1 yang2	730
+惧噬体	ju4 shi4 ti3	730
+巨秃鹫	ju4 tu1 jiu4	730
+巨蜈蚣	ju4 wu2 gong1	730
+巨野猪	ju4 ye3 zhu1	730
+巨章鱼	ju4 zhang1 yu2	730
+巨蜘蛛	ju4 zhi1 zhu1	730
+卷轴匣	juan4 zhou2 xia2	730
+掘道者	jue2 dao4 zhe3	730
+掘地虫	jue2 di4 chong2	730
+军需官	jun1 xu1 guan1	730
+喀嘶魔	ka1 si1 mo2	730
+坎比翁	kan3 bi3 weng1	730
+抗毒剂	kang4 du2 ji4	730
+抗逆晶核	kang4 ni4 jing1 he2	730
+克隆术	ke4 long2 shu4	730
+空灵体	kong1 ling2 ti3	730
+空心芦苇	kong1 xin1 lu2 wei3	730
+恐惧术	kong3 ju4 shu4	730
+恐爪怪	kong3 zhao3 guai4	730
+口舌腰带	kou3 she2 yao1 dai4	730
+枯水术	ku1 shui3 shu4	730
+枯藤怪	ku1 teng2 guai4	730
+枯萎怪	ku1 wei3 guai4	730
+枯萎术	ku1 wei3 shu4	730
+枯针怪	ku1 zhen1 guai4	730
+枯枝怪	ku1 zhi1 guai4	730
+苦难活木弓	ku3 nan4 huo2 mu4 gong1	730
+夸塞魔	kua1 sai1 mo2	730
+狂蛙人	kuang2 wa1 ren2	730
+狂战魔	kuang2 zhan4 mo2	730
+矿工镐	kuang4 gong1 gao3	730
+困惑术	kun4 huo4 shu4	730
+蜡融妖	la4 rong2 yao1	730
+蓝焰项链	lan2 yan4 xiang4 lian4	730
+雷鸣波	lei2 ming2 bo1	730
+雷鸣斩	lei2 ming2 zhan3	730
+黎明工坊	li2 ming2 gong1 fang1	730
+礼拜守卫者	li3 bai4 shou3 wei4 zhe3	730
+里拉琴	li3 la1 qin2	730
+力场墙	li4 chang3 qiang2	730
+炼金师	lian4 jin1 shi1	730
+炼狱护腕	lian4 yu4 hu4 wan4	730
+炼狱语	lian4 yu4 yu3	730
+疗伤术	liao2 shang1 shu4	730
+灵魂袋	ling2 hun2 dai4	730
+灵魂一瞥	ling2 hun2 yi1 pie1	730
+凌空剑	ling2 kong1 jian4	730
+灵吸文	ling2 xi1 wen2	730
+流浪儿	liu2 lang4 er2	730
+龙骨船	long2 gu3 chuan2	730
+龙巫妖	long2 wu1 yao1	730
+鲁特琴	lu3 te4 qin2	730
+鲁瓦亚将军	lu3 wa3 ya4 jiang1 jun1	730
+绿鬼婆	lv4 gui3 po2	730
+蔓生怪	man4 sheng1 guai4	730
+冒充者	mao4 chong1 zhe3	730
+霉星的烦恼	mei2 xing1 de5 fan2 nao3	730
+魅影驹	mei4 ying3 ju1	730
+闷人毯	men4 ren2 tan3	730
+蒙巾面饰	meng2 jin1 mian4 shi4	730
+朦胧术	meng2 long2 shu4	730
+蒙托眼镜	meng2 tuo1 yan3 jing4	730
+迷宫术	mi2 gong1 shu4	730
+迷诱魔	mi2 you4 mo2	730
+迷踪步	mi2 zong1 bu4	730
+米诺斯传说	mi3 nuo4 si1 chuan2 shuo1	730
+秘法门	mi4 fa3 men2	730
+秘法锁	mi4 fa3 suo3	730
+秘法眼	mi4 fa3 yan3	730
+灭族者	mie4 zu2 zhe3	730
+命令术	ming4 ling4 shu4	730
+磨刀石	mo2 dao1 shi2	730
+魔法师	mo2 fa3 shi1	730
+蘑菇粉和藏红花	mo2 gu1 fen3 he2 zang4 hong2 hua1	730
+魔后护腕	mo2 hou4 hu4 wan4	730
+魔魂壶	mo2 hun2 hu2	730
+魔能爆	mo2 neng2 bao4	730
+魔绳术	mo2 sheng2 shu4	730
+魔兽人	mo2 shou4 ren2	730
+魔嘴术	mo2 zui3 shu4	730
+墨水笔	mo4 shui3 bi3	730
+墨汁云	mo4 zhi1 yun2	730
+木遁术	mu4 dun4 shu4	730
+目盲术	mu4 mang2 shu4	730
+木族语	mu4 zu2 yu3	730
+泥魔蝠	ni2 mo2 fu2	730
+泥水匠	ni2 shui3 jiang4	730
+尼亚克寒冷射线	ni2 ya4 ke4 han2 leng3 she4 xian4	730
+拟身怪	ni3 shen1 guai4	730
+拟像术	ni3 xiang4 shu4	730
+酿酒师	niang4 jiu3 shi1	730
+宁神境	ning2 shen2 jing4	730
+凝神圣歌	ning2 shen2 sheng4 ge1	730
+牛头人	niu2 tou2 ren2	730
+弩矢匣	nu3 shi3 xia2	730
+扒窃犯	pa2 qie4 fan4	730
+攀云步	pan1 yun2 bu4	730
+判魂魔	pan4 hun2 mo2	730
+皮克精	pi2 ke4 jing1	730
+祈并者法杖	qi2 bing4 zhe3 fa3 zhang4	730
+奇鲁魔	qi2 lu3 mo2	730
+启蒙术	qi3 meng2 shu4	730
+起义之斧	qi3 yi4 zhi1 fu3	730
+气巨灵	qi4 ju4 ling2	730
+气元素	qi4 yuan2 su4	730
+气族语	qi4 zu2 yu3	730
+千面相	qian1 mian4 xiang4	730
+虔诚法衣	qian2 cheng2 fa3 yi1	730
+强酸屠龙剑	qiang2 suan1 tu2 long2 jian4	730
+强迫术	qiang3 po4 shu4	730
+敲击术	qiao1 ji1 shu4	730
+敲诈犯	qiao1 zha4 fan4	730
+巧言术	qiao3 yan2 shu4	730
+擒抱藤	qin2 bao4 teng2	730
+清流鞭	qing1 liu2 bian1	730
+青年龙	qing1 nian2 long2	730
+轻身坠	qing1 shen1 zhui4	730
+燃火术	ran2 huo3 shu4	730
+染布师	ran3 bu4 shi1	730
+三角龙	san1 jiao3 long2	730
+三棱梭	san1 leng2 suo1	730
+三龙牌	san1 long2 pai2	730
+三元冢	san1 yuan2 zhong3	730
+散打宗	san4 da3 zong1	730
+色彩龙	se4 cai3 long2	730
+鲨蜥兽	sha1 xi1 shou4	730
+沙旋风	sha1 xuan2 feng1	730
+闪现犬	shan3 xian4 quan3	730
+闪现术	shan3 xian4 shu4	730
+闪耀毁灭者	shan3 yao4 hui3 mie4 zhe3	730
+伤害减免	shang1 hai4 jian3 mian3	730
+伤害骰	shang1 hai4 tou2	730
+蛇鸡兽	she2 ji1 shou4	730
+蛇颈龙	she2 jing3 long2	730
+深潜语	shen1 qian2 yu3	730
+深渊语	shen1 yuan1 yu3	730
+神导术	shen2 dao3 shu4	730
+神莓术	shen2 mei2 shu4	730
+神威头盔	shen2 wei1 tou2 kui1	730
+神系净化	shen2 xi4 jing4 hua4	730
+神性头冠	shen2 xing4 tou2 guan1	730
+渗透劲	shen4 tou4 jin4	730
+圣宝石粉末	sheng4 bao3 shi2 fen3 mo4	730
+圣火术	sheng4 huo3 shu4	730
+圣物匣	sheng4 wu4 xia2	730
+圣言术	sheng4 yan2 shu4	730
+狮吼功	shi1 hou3 gong1	730
+尸制晶核	shi1 zhi4 jing1 he2	730
+食腐虫	shi2 fu3 chong2	730
+食腐兽	shi2 fu3 shou4	730
+石化牛	shi2 hua4 niu2	730
+石化术	shi2 hua4 shu4	730
+石魔像	shi2 mo2 xiang4	730
+石墙术	shi2 qiang2 shu4	730
+史拉蟾	shi3 la1 chan2	730
+噬脑怪	shi4 nao3 guai4	730
+噬焰流	shi4 yan4 liu2	730
+熟练项	shou2 lian4 xiang4	730
+手指项链	shou3 zhi3 xiang4 lian4	730
+兽化人	shou4 hua4 ren2	730
+兽皮甲	shou4 pi2 jia3	730
+兽人语	shou4 ren2 yu3	730
+受憎之腕	shou4 zeng1 zhi1 wan4	730
+兽之形	shou4 zhi1 xing2	730
+书记员	shu1 ji4 yuan2	730
+术法点	shu4 fa3 dian3	730
+树肤术	shu4 fu1 shu4	730
+树胶睫毛	shu4 jiao1 jie2 mao2	730
+树绳妖	shu4 sheng2 yao1	730
+树跃术	shu4 yue4 shu4	730
+衰弱虚弱	shuai1 ruo4 xu1 ruo4	730
+双持客	shuang1 chi2 ke4	730
+双子之剑	shuang1 zi5 zhi1 jian4	730
+水晶圆锥	shui3 jing1 yuan2 zhui1	730
+水巨灵	shui3 ju4 ling2	730
+水族语	shui3 zu2 yu3	730
+说书人	shuo1 shu1 ren2	730
+司莱诺图书馆	si1 lai2 nuo4 tu2 shu1 guan3	730
+死亡尖牙	si3 wang2 jian1 ya2	730
+死亡之门	si3 wang2 zhi1 men2	730
+四环护盾	si4 huan2 hu4 dun4	730
+四雷拳	si4 lei2 quan2	730
+四象宗	si4 xiang4 zong1	730
+四元冢	si4 yuan2 zhong3	730
+塑石术	su4 shi2 shu4	730
+缩小术	suo1 xiao3 shu4	730
+螳螂戟	tang2 lang2 ji3	730
+螳螂人	tang2 lang2 ren2	730
+提拉的道标	ti2 la1 de5 dao4 biao1	730
+提升能力	ti2 sheng1 neng2 li4	730
+提振士气	ti2 zhen4 shi4 qi4	730
+天界语	tian1 jie4 yu3	730
+天眼通	tian1 yan3 tong1	730
+天语通	tian1 yu3 tong1	730
+跳跃攻击	tiao4 yue4 gong1 ji1	730
+跳跃术	tiao4 yue4 shu4	730
+铁蒺藜	tie3 ji2 li2	730
+通神术	tong1 shen2 shu4	730
+通用语	tong1 yong4 yu3	730
+痛苦之楔	tong4 ku3 zhi1 xie1	730
+投石索	tou2 shi2 suo3	730
+投影术	tou2 ying3 shu4	730
+突袭轮	tu1 xi2 lun2	730
+图腾垂饰	tu2 teng2 chui2 shi4	730
+土巨怪	tu3 ju4 guai4	730
+土巨灵	tu3 ju4 ling2	730
+土族语	tu3 zu2 yu3	730
+托梦术	tuo1 meng4 shu4	730
+驼用马	tuo2 yong4 ma3	730
+万齿之斧	wan4 chi3 zhi1 fu3	730
+万事通	wan4 shi4 tong1	730
+王洛克	wang2 luo4 ke4	730
+亡者祷文	wang2 zhe3 dao3 wen2	730
+维生术	wei2 sheng1 shu4	730
+委托人	wei3 tuo1 ren2	730
+伪装术	wei3 zhuang1 shu4	730
+为胜利	wei4 sheng4 li4	730
+纹章师	wen2 zhang1 shi1	730
+沃尔的轨迹	wo4 er3 de5 gui3 ji4	730
+沃尔胸甲	wo4 er3 xiong1 jia3	730
+污黯皮甲	wu1 an4 pi2 jia3	730
+巫术箭	wu1 shu4 jian4	730
+无定形	wu2 ding4 xing2	730
+蜈蚣群	wu2 gong1 qun2	730
+无辜者之靴	wu2 gu1 zhe3 zhi1 xue1	730
+无赖游戏	wu2 lai4 you2 xi4	730
+无形冲击之斧	wu2 xing2 chong1 ji1 zhi1 fu3	730
+无阵营	wu2 zhen4 ying2	730
+无踪步	wu2 zong1 bu4	730
+舞光术	wu3 guang1 shu4	730
+武艺骰	wu3 yi4 tou2	730
+五元冢	wu3 yuan2 zhong3	730
+蜥蜴人	xi1 yi4 ren2	730
+仙女眼泪	xian1 nv3 yan3 lei4	730
+嫌恶术	xian2 wu4 shu4	730
+贤者之袍	xian2 zhe3 zhi1 pao2	730
+陷阱感应	xian4 jing3 gan3 ying4	730
+橡棍术	xiang4 gun4 shu4	730
+销赃犯	xiao1 zang1 fan4	730
+小魔鬼	xiao3 mo2 gui3	730
+小妖精	xiao3 yao1 jing1	730
+蝎化卓尔	xie1 hua4 zhuo2 er3	730
+蝎尾狮	xie1 wei3 shi1	730
+心腹大患	xin1 fu4 da4 huan4	730
+信号笛	xin4 hao4 di2	730
+信念链甲	xin4 nian4 lian4 jia3	730
+雄霸魔	xiong2 ba4 mo2	730
+修补匠	xiu1 bu3 jiang4	730
+修帆匠	xiu1 fan1 jiang4	730
+修复术	xiu1 fu4 shu4	730
+休憩曲	xiu1 qi4 qu1	730
+修整期	xiu1 zheng3 qi1	730
+穴居熊	xue2 ju1 xiong2	730
+穴蜥人	xue2 xi1 ren2	730
+雪雨暴	xue3 yu3 bao4	730
+寻猎鲨	xun2 lie4 sha1	730
+寻路术	xun2 lu4 shu4	730
+寻强敌	xun2 qiang2 di2	730
+蕈人王	xun4 ren2 wang2	730
+湮灭波	yan1 mie4 bo1	730
+烟魔蝠	yan1 mo2 fu2	730
+研究员	yan2 jiu1 yuan2	730
+岩侏儒	yan2 zhu1 ru2	730
+眼魔之眼	yan3 mo2 zhi1 yan3	730
+焰击术	yan4 ji1 shu4	730
+羊皮纸	yang2 pi2 zhi3	730
+阳炎爆	yang2 yan2 bao4	730
+妖精龙	yao1 jing1 long2	730
+耶诺古	ye2 nuo4 gu3	730
+冶炼匠	ye3 lian4 jiang4	730
+野猪人	ye3 zhu1 ren2	730
+夜鬼婆	ye4 gui3 po2	730
+夜之子	ye4 zhi1 zi5	730
+一阶段	yi1 jie1 duan4	730
+医疗包	yi1 liao2 bao1	730
+医疗师	yi1 liao2 shi1	730
+医疗术	yi1 liao2 shu4	730
+伊特怪	yi1 te4 guai4	730
+移位兽	yi2 wei4 shou4	730
+疫病术	yi4 bing4 shu4	730
+易容术	yi4 rong2 shu4	730
+异特龙	yi4 te4 long2	730
+银金币	yin2 jin1 bi4	730
+隐伏者	yin3 fu2 zhe3	730
+饮命者	yin3 ming4 zhe3	730
+印记斩	yin4 ji4 zhan3	730
+鹰眼术	ying1 yan3 shu4	730
+英勇圣光	ying1 yong3 sheng4 guang1	730
+影武狂魔	ying3 wu3 kuang2 mo2	730
+硬头锤	ying4 tou2 chui2	730
+幽影龙	you1 ying3 long2	730
+油腻术	you2 ni4 shu4	730
+遇恶果	yu4 e4 guo3	730
+驭弓之力	yu4 gong1 zhi1 li4	730
+预警术	yu4 jing3 shu4	730
+寓守于攻	yu4 shou3 yu2 gong1	730
+御守于攻	yu4 shou3 yu2 gong1	730
+预言术	yu4 yan2 shu4	730
+原初语	yuan2 chu1 yu3	730
+援助术	yuan2 zhu4 shu4	730
+远古龙	yuan3 gu3 long2	730
+云巨人	yun2 ju4 ren2	730
+云雾势	yun2 wu4 shi4	730
+云雾术	yun2 wu4 shu4	730
+灾祸术	zai1 huo4 shu4	730
+再生术	zai4 sheng1 shu4	730
+造风术	zao4 feng1 shu4	730
+造粮术	zao4 liang2 shu4	730
+造水术	zao4 shui3 shu4	730
+造物术	zao4 wu4 shu4	730
+扎瑞尔	zha1 rui4 er3	730
+占星师	zhan1 xing1 shi1	730
+赭冻怪	zhe3 dong4 guai4	730
+真知术	zhen1 zhi1 shu4	730
+震慑拳	zhen4 she4 quan2	730
+蒸馏师	zheng1 liu2 shi1	730
+织布师	zhi1 bu4 shi1	730
+蜘蛛群	zhi1 zhu1 qun2	730
+执着热诚之弓	zhi2 zhuo2 re4 cheng2 zhi1 gong1	730
+指使术	zhi3 shi3 shu4	730
+制表员	zhi4 biao3 yuan2	730
+至高天	zhi4 gao1 tian1	730
+制革师	zhi4 ge2 shi1	730
+致盲斩	zhi4 mang2 zhan3	730
+制肉者实验室	zhi4 rou4 zhe3 shi2 yan4 shi4	730
+致伤术	zhi4 shang1 shu4	730
+至圣斩	zhi4 sheng4 zhan3	730
+制鞋匠	zhi4 xie2 jiang4	730
+忠诚堡垒	zhong1 cheng2 bao3 lei3	730
+忠诚晶核	zhong1 cheng2 jing1 he2	730
+忠诚之盾	zhong1 cheng2 zhi1 dun4	730
+重伤术	zhong4 shang1 shu4	730
+昼明术	zhou4 ming2 shu4	730
+咒逐之戒	zhou4 zhu2 zhi1 jie4	730
+珠宝匠	zhu1 bao3 jiang4	730
+侏儒语	zhu1 ru2 yu3	730
+诸神遗物	zhu1 shen2 yi2 wu4	730
+蛛行术	zhu1 xing2 shu4	730
+注目术	zhu4 mu4 shu4	730
+铸造师	zhu4 zao4 shi1	730
+转生术	zhuan3 sheng1 shu4	730
+卓姆之诅咒	zhuo2 mu3 zhi1 zu3 zhou4	730
+卓越骰	zhuo2 yue4 tou2	730
+资料卡	zi1 liao4 ka3	730
+自耕农	zi4 geng1 nong2	730
+走私犯	zou3 si1 fan4	730
+诅咒披风	zu3 zhou4 pi1 feng1	730
+钻石粉末	zuan4 shi2 fen3 mo4	730
+琢骨盾牌	zuo2 gu3 dun4 pai2	730
+阿弗纳斯	a1 fu2 na4 si1	720
+阿兰寇拉鹰人	a1 lan2 kou4 la1 ying1 ren2	720
+阿斯蒙蒂斯	a1 si1 meng2 di4 si1	720
+矮人刚毅	ai3 ren2 gang1 yi4	720
+矮人护甲训练	ai3 ren2 hu4 jia3 xun4 lian4	720
+矮人体魄	ai3 ren2 ti3 po4	720
+矮人战斗训练	ai3 ren2 zhan4 dou4 xun4 lian4	720
+艾伐黑触手	ai4 fa2 hei1 chu4 shou3	720
+艾嘉西斯之铠	ai4 jia1 xi1 si1 zhi1 kai3	720
+安定心神	an1 ding4 xin1 shen2	720
+安抚孢子	an1 fu3 bao1 zi3	720
+暗幕魔兽	an4 mu4 mo2 shou4	720
+暗夜巨蛇丹达尔	an4 ye4 ju4 she2 dan1 da2 er3	720
+暗影技艺	an4 ying3 ji4 yi4	720
+奥法罗斯魔	ao4 fa3 luo2 si1 mo2	720
+奥法骑士	ao4 fa3 qi2 shi4	720
 奥秘	ao4 mi4	720
+奥秘检定	ao4 mi4 jian3 ding4	720
+奥术传承	ao4 shu4 chuan2 cheng2	720
+奥术法器	ao4 shu4 fa3 qi4	720
+奥术回想	ao4 shu4 hui2 xiang3	720
+奥术守御	ao4 shu4 shou3 yu4	720
+巴尔泽布	ba1 er3 ze2 bu4	720
+巴古拉魔	ba1 gu3 la1 mo2	720
+巴洛炎魔	ba1 luo4 yan2 mo2	720
+百病不侵	bai3 bing4 bu4 qin1	720
+百足魔兽	bai3 zu2 mo2 shou4	720
+版权归艾伯伦的超能力所有	ban3 quan2 gui1 ai4 bo2 lun2 de5 chao1 neng2 li4 suo3 you3	720
+半红龙老兵	ban4 hong2 long2 lao3 bing1	720
+半身板甲	ban4 shen1 ban3 jia3	720
+半身人灵巧	ban4 shen1 ren2 ling2 qiao3	720
+半身人语	ban4 shen1 ren2 yu3	720
+半身掩护	ban4 shen1 yan3 hu4	720
+半食人魔	ban4 shi2 ren2 mo2	720
+半兽食人魔	ban4 shou4 shi2 ren2 mo2	720
+孢子奴仆	bao1 zi3 nu2 pu2	720
+宝石切割师	bao3 shi2 qie1 ge1 shi1	720
+北风之握	bei3 feng1 zhi1 wo4	720
+被动察觉	bei4 dong4 cha2 jue2	720
+被动感知	bei4 dong4 gan3 zhi1	720
+被动检定	bei4 dong4 jian3 ding4	720
+背弃誓言	bei4 qi4 shi4 yan2	720
+匕首之云	bi3 shou3 zhi1 yun2	720
+毕格比之手	bi4 ge2 bi3 zhi1 shou3	720
+编演记忆	bian1 yan3 ji4 yi4	720
+变化师之石	bian4 hua4 shi1 zhi1 shi2	720
+变化学派	bian4 hua4 xue2 pai4	720
+变化学者	bian4 hua4 xue2 zhe3	720
+变化宗师	bian4 hua4 zong1 shi1	720
+变色甲壳	bian4 se4 jia3 qiao4	720
+变色皮肤	bian4 se4 pi2 fu1	720
+变体公会工匠	bian4 ti3 gong1 hui4 gong1 jiang4	720
+变体贵族	bian4 ti3 gui4 zu2	720
+变体人类	bian4 ti3 ren2 lei4	720
+变体水手	bian4 ti3 shui3 shou3	720
+变体特性	bian4 ti3 te4 xing4	720
+变体艺人	bian4 ti3 yi4 ren2	720
+变体罪犯	bian4 ti3 zui4 fan4	720
+便携式攻城锤	bian4 xie2 shi4 gong1 cheng2 chui2	720
 表演	biao3 yan3	720
+表演服装	biao3 yan3 fu2 zhuang1	720
+表演检定	biao3 yan3 jian3 ding4	720
+冰魔矛兵	bing1 mo2 mao2 bing1	720
+冰上行走	bing1 shang4 xing2 zou3	720
+拨挡飞弹	bo1 dang3 fei1 dan4	720
+玻璃吹制师	bo1 li2 chui1 zhi4 shi1	720
+玻璃匠工具	bo1 li2 jiang4 gong1 ju4	720
+玻璃装配师	bo1 li2 zhuang1 pei4 shi1	720
+不安面具	bu4 an1 mian4 ju4	720
+不变形态	bu4 bian4 xing2 tai4	720
+不灭明焰	bu4 mie4 ming2 yan4	720
+不灭哨卫	bu4 mie4 shao4 wei4	720
+不屈勇武	bu4 qu1 yong3 wu3	720
+不死坚韧	bu4 si3 jian1 ren4	720
+不死奴仆	bu4 si3 nu2 pu2	720
+不死生物	bu4 si3 sheng1 wu4	720
+不死适应	bu4 si3 shi4 ying4	720
+不死统帅	bu4 si3 tong3 shuai4	720
+不谐低语	bu4 xie2 di1 yu3	720
+部族萨满	bu4 zu2 sa4 man3	720
+部族武者	bu4 zu2 wu3 zhe3	720
+财宝感知	cai2 bao3 gan3 zhi1	720
+苍山庇佑	cang1 shan1 bi4 you4	720
+操控混沌	cao1 kong4 hun4 dun4	720
+操控水体	cao1 kong4 shui3 ti3	720
+操控天气	cao1 kong4 tian1 qi4	720
+草药工具	cao3 yao4 gong1 ju4	720
 察觉	cha2 jue2	720
+察觉检定	cha2 jue2 jian3 ding4	720
+豺狼人头领	chai2 lang2 ren2 tou2 ling3	720
+缠身植被	chan2 shen1 zhi2 bei4	720
+颤动感知	chan4 dong4 gan3 zhi1	720
+长柄武器大师	chang2 bing3 wu3 qi4 da4 shi1	720
+超凡察觉	chao1 fan2 cha2 jue2	720
+超凡技艺	chao1 fan2 ji4 yi4	720
+超凡入圣	chao1 fan2 ru4 sheng4	720
+超凡跳跃	chao1 fan2 tiao4 yue4	720
+超限导能	chao1 xian4 dao3 neng2	720
+巢穴动作	chao2 xue2 dong4 zuo4	720
+车厢工匠	che1 xiang1 gong1 jiang4	720
+尘土之云	chen2 tu3 zhi1 yun2	720
+沉重的护甲	chen2 zhong4 de5 hu4 jia3	720
+成军优势	cheng2 jun1 you1 shi4	720
+成年蓝龙巫妖	cheng2 nian2 lan2 long2 wu1 yao1	720
+诚实之域	cheng2 shi2 zhi1 yu4	720
+成为光明	cheng2 wei2 guang1 ming2	720
+城中秘密	cheng2 zhong1 mi4 mi4	720
+迟缓吐息	chi2 huan3 tu3 xi1	720
+持久狂暴	chi2 jiu3 kuang2 bao4	720
+持续时间	chi2 xu4 shi2 jian1	720
+斥力猛击	chi4 li4 meng3 ji1	720
+斥力魔爆	chi4 li4 mo2 bao4	720
+斥力吐息	chi4 li4 tu3 xi1	720
+炽天神侍	chi4 tian1 shen2 shi4	720
+炽焰法球	chi4 yan4 fa3 qiu2	720
+冲出重围	chong1 chu1 chong2 wei2	720
+重塑血肉	chong2 su4 xue4 rou4	720
+重整旗鼓	chong2 zheng3 qi2 gu3	720
+仇敌誓言	chou2 di2 shi4 yan2	720
+厨师工具	chu2 shi1 gong1 ju4	720
+触须攻击	chu4 xu1 gong1 ji1	720
+触须猛击	chu4 xu1 meng3 ji1	720
+船家路子	chuan2 jia1 lu4 zi5	720
+传念连接	chuan2 nian4 lian2 jie1	720
+传奇动作	chuan2 qi2 dong4 zuo4	720
+传奇抗性	chuan2 qi2 kang4 xing4	720
+传奇生物	chuan2 qi2 sheng1 wu4	720
+传奇生物巢穴	chuan2 qi2 sheng1 wu4 chao2 xue2	720
+创造半位面	chuang4 zao4 ban4 wei4 mian4	720
+创造奴仆	chuang4 zao4 nu2 pu2	720
+纯净之魂	chun2 jing4 zhi1 hun2	720
+纯血蛇人	chun2 xue4 she2 ren2	720
+次级复原术	ci4 ji2 fu4 yuan2 shu4	720
+次级幻影	ci4 ji2 huan4 ying3	720
+次级炼金	ci4 ji2 lian4 jin1	720
+次级元素咒唤术	ci4 ji2 yuan2 su4 zhou4 huan4 shu4	720
+次级咒术	ci4 ji2 zhou4 shu4	720
+篡改记忆	cuan4 gai3 ji4 yi4	720
+摧毁不死生物	cui1 hui3 bu4 si3 sheng1 wu4	720
+催眠图纹	cui1 mian2 tu2 wen2	720
+脆弱诅咒	cui4 ruo4 zu3 zhou4	720
+存在位面	cun2 zai4 wei4 mian4	720
+大步奔行	da4 bu4 ben1 xing2	720
+大德鲁伊	da4 de2 lu3 yi1	720
+大地结社	da4 di4 jie2 she4	720
+大地精军阀	da4 di4 jing1 jun1 fa2	720
+大地精长官	da4 di4 jing1 zhang3 guan1	720
+大地行者	da4 di4 xing2 zhe3	720
+大使套组	da4 shi3 tao4 zu3	720
+带翼狗头人	dai4 yi4 gou3 tou2 ren2	720
+单帆长船	dan1 fan1 chang2 chuan2	720
+倒地缺陷	dao3 di4 que1 xian4	720
+导引打击	dao3 yin3 da3 ji1	720
+盗贼工具	dao4 zei2 gong1 ju4	720
+盗贼黑话	dao4 zei2 hei1 hua4	720
+德鲁伊法器	de2 lu3 yi1 fa3 qi4	720
+德鲁伊伎俩	de2 lu3 yi1 ji4 liang3	720
+德鲁伊结社	de2 lu3 yi1 jie2 she4	720
+德鲁伊语	de2 lu3 yi1 yu3	720
+低阶魔鬼	di1 jie1 mo2 gui3	720
+狄摩高根	di2 mo2 gao1 gen1	720
+迪斯帕特	di2 si1 pa4 te4	720
+抵抗驱散	di3 kang4 qu1 san4	720
+底栖魔鱼	di3 qi1 mo2 yu2	720
+地城探索者	di4 cheng2 tan4 suo3 zhe3	720
+地城套组	di4 cheng2 tao4 zu3	720
+地底通用语	di4 di3 tong1 yong4 yu3	720
+地底侏儒	di4 di3 zhu1 ru2	720
+地精头目	di4 jing1 tou2 mu4	720
+第三阶段	di4 san1 jie1 duan4	720
+第三人称	di4 san1 ren2 cheng1	720
+第四阶段	di4 si4 jie1 duan4	720
+第一人称	di4 yi1 ren2 cheng1	720
+地狱回声	di4 yu4 hui2 sheng1	720
+地狱火珠	di4 yu4 huo3 zhu1	720
+地狱武器	di4 yu4 wu3 qi4	720
+地狱遗赠	di4 yu4 yi2 zeng4	720
+点亮光明	dian3 liang4 guang1 ming2	720
+调查检定	diao4 cha2 jian3 ding4	720
+冻寒之触	dong4 han2 zhi1 chu4	720
+动物交谈	dong4 wu4 jiao1 tan2	720
+动物信使	dong4 wu4 xin4 shi3	720
+动物形态	dong4 wu4 xing2 tai4	720
+动物咒唤术	dong4 wu4 zhou4 huan4 shu4	720
 洞悉	dong4 xi1	720
+洞悉检定	dong4 xi1 jian3 ding4	720
+动植物定位术	dong4 zhi2 wu4 ding4 wei4 shu4	720
+动植物交谈	dong4 zhi2 wu4 jiao1 tan2	720
+动作如潮	dong4 zuo4 ru2 chao2	720
+斗殴高手	dou4 ou1 gao1 shou3	720
+毒气孢子	du2 qi4 bao1 zi3	720
+毒气喷溅	du2 qi4 pen1 jian4	720
+渎神之语	du2 shen2 zhi1 yu3	720
+读心屏障	du2 xin1 ping2 zhang4	720
+毒性吐息	du2 xing4 tu3 xi1	720
+短休或长休后充能	duan3 xiu1 huo4 chang2 xiu1 hou4 chong1 neng2	720
+敦实半身人	dun1 shi2 ban4 shen1 ren2	720
+敦实体魄	dun1 shi2 ti3 po4	720
+盾牌大师	dun4 pai2 da4 shi1	720
+多变照明	duo1 bian4 zhao4 ming2	720
+多才多艺	duo1 cai2 duo1 yi4	720
+多头反应	duo1 tou2 fan3 ying4	720
+多头蛇蜥	duo1 tou2 she2 xi1	720
+夺心魔奥术师	duo2 xin1 mo2 ao4 shu4 shi1	720
+堕影冥界	duo4 ying3 ming2 jie4	720
+额外攻击	e2 wai4 gong1 ji1	720
+额外魔法奥秘	e2 wai4 mo2 fa3 ao4 mi4	720
+额外语言	e2 wai4 yu3 yan2	720
+额外战斗风格	e2 wai4 zhan4 dou4 feng1 ge2	720
+恶臭喷溅	e4 chou4 pen1 jian4	720
+噩梦缠身	e4 meng4 chan2 shen1	720
+恶魔领主	e4 mo2 ling3 zhu3	720
+恶言相加	e4 yan2 xiang1 jia1	720
+恶咒类型	e4 zhou4 lei4 xing2	720
+恶咒蛇人	e4 zhou4 she2 ren2	720
+二轮货车	er4 lun2 huo4 che1	720
+二轮战车	er4 lun2 zhan4 che1	720
+发条玩具	fa1 tiao2 wan2 ju4	720
+法师护甲	fa3 shi1 hu4 jia3	720
+法师学徒	fa3 shi1 xue2 tu2	720
+法师之手诈术	fa3 shi1 zhi1 shou3 zha4 shu4	720
+法术成分	fa3 shu4 cheng2 fen4	720
+法术存储	fa3 shu4 cun2 chu3	720
+法术的准备和施展	fa3 shu4 de5 zhun3 bei4 he2 shi1 zhan3	720
+法术的准备与施展	fa3 shu4 de5 zhun3 bei4 yu3 shi1 zhan3	720
+法术反射	fa3 shu4 fan3 she4	720
+法术反制	fa3 shu4 fan3 zhi4	720
+法术共享	fa3 shu4 gong4 xiang3	720
+法术轰击	fa3 shu4 hong1 ji1	720
+法术环阶	fa3 shu4 huan2 jie1	720
+法术精通	fa3 shu4 jing1 tong1	720
+法术抗性	fa3 shu4 kang4 xing4	720
+法术免疫	fa3 shu4 mian3 yi4	720
+法术窃贼	fa3 shu4 qie4 zei2	720
+法术射手	fa3 shu4 she4 shou3	720
+法术塑形	fa3 shu4 su4 xing2	720
+法术位转换术法点	fa3 shu4 wei4 zhuan3 huan4 shu4 fa3 dian3	720
+法术无效结界	fa3 shu4 wu2 xiao4 jie2 jie4	720
+反魔法场	fan3 mo2 fa3 chang3	720
+反魔法易感	fan3 mo2 fa3 yi4 gan3	720
+反魔法锥域	fan3 mo2 fa3 zhui1 yu4	720
+反弹甲壳	fan3 tan2 jia3 qiao4	720
+反制善恶	fan3 zhi4 shan4 e4	720
+反转重力	fan3 zhuan3 zhong4 li4	720
+防护毒素	fang2 hu4 du2 su4	720
+防护法阵	fang2 hu4 fa3 zhen4	720
+防护能量伤害	fang2 hu4 neng2 liang4 shang1 hai4	720
+防护善恶	fang2 hu4 shan4 e4	720
+防护学派	fang2 hu4 xue2 pai4	720
+防护学者	fang2 hu4 xue2 zhe3	720
+防活物护罩	fang2 huo2 wu4 hu4 zhao4	720
+防守战术	fang2 shou3 zhan4 shu4	720
+防御式决斗	fang2 yu4 shi4 jue2 dou4	720
+非魔法攻击	fei1 mo2 fa3 gong1 ji1	720
+非玩家角色	fei1 wan2 jia1 jue2 se4	720
+飞檐走壁	fei1 yan2 zou3 bi4	720
+废陋巨人	fei4 lou4 ju4 ren2	720
+分裂惑控	fen1 lie4 huo4 kong4	720
+坟墓低语	fen2 mu4 di1 yu3	720
+粉碎音波	fen3 sui4 yin1 bo1	720
+风暴降生	feng1 bao4 jiang4 sheng1	720
+风暴巨人	feng1 bao4 ju4 ren2	720
+风暴狂怒	feng1 bao4 kuang2 nu4	720
+风暴领域	feng1 bao4 ling3 yu4	720
+疯狂冠冕	feng1 kuang2 guan1 mian3	720
+风灵突进	feng1 ling2 tu1 jin4	720
+凤凰烈焰	feng4 huang2 lie4 yan4	720
+奉献灵光	feng4 xian4 ling2 guang1	720
+奉献之誓	feng4 xian4 zhi1 shi4	720
+奉献之信条	feng4 xian4 zhi1 xin4 tiao2	720
+弗拉兹厄鲁	fu2 la1 zi1 e4 lu3	720
+符文守护者之眼	fu2 wen2 shou3 hu4 zhe3 zhi1 yan3	720
+俯冲攻击	fu3 chong1 gong1 ji1	720
+腐化触击	fu3 hua4 chu4 ji1	720
+腐烂触击	fu3 lan4 chu4 ji1	720
+腐蚀金属	fu3 shi2 jin1 shu3	720
+腐蚀形态	fu3 shi2 xing2 tai4	720
+腐朽凝视	fu3 xiu3 ning2 shi4	720
+腐朽拳击	fu3 xiu3 quan2 ji1	720
+复仇风暴	fu4 chou2 feng1 bao4	720
+复仇怒视	fu4 chou2 nu4 shi4	720
+复仇之誓	fu4 chou2 zhi1 shi4	720
+复仇之信条	fu4 chou2 zhi1 xin4 tiao2	720
+附盖提灯	fu4 gai4 ti2 deng1	720
+负伤狂怒	fu4 shang1 kuang2 nu4	720
+赋予火焰抗性	fu4 yu3 huo3 yan4 kang4 xing4	720
+附赠动作	fu4 zeng4 dong4 zuo4	720
+附赠熟练项	fu4 zeng4 shou2 lian4 xiang4	720
+附赠戏法	fu4 zeng4 xi4 fa3	720
+缚主之音	fu4 zhu3 zhi1 yin1	720
+感知检定	gan3 zhi1 jian3 ding4	720
+感知魔法	gan3 zhi1 mo2 fa3	720
+钢铁魔像	gang1 tie3 mo2 xiang4	720
+钢铁意志	gang1 tie3 yi4 zhi4	720
+高档服装	gao1 dang4 fu2 zhuang1	720
+高等幻影	gao1 deng3 huan4 ying3	720
+高等理解力	gao1 deng3 li3 jie3 li4	720
+高等隐形术	gao1 deng3 yin3 xing2 shu4	720
+高等预兆	gao1 deng3 yu4 zhao4	720
+高等转化	gao1 deng3 zhuan3 hua4	720
+高阶魔鬼	gao1 jie1 mo2 gui3	720
+高效猎人防术	gao1 xiao4 lie4 ren2 fang2 shu4	720
+高效重击	gao1 xiao4 zhong4 ji1	720
+格拉兹特	ge2 la1 zi1 te4	720
+格莱石人	ge2 lai2 shi2 ren2	720
+格乌什之怒	ge2 wu1 shi2 zhi1 nu4	720
+格乌什之眼	ge2 wu1 shi2 zhi1 yan3	720
+个性特点	ge4 xing4 te4 dian3	720
+攻城怪物	gong1 cheng2 guai4 wu4	720
+公会成员	gong1 hui4 cheng2 yuan2	720
+公会工匠	gong1 hui4 gong1 jiang4	720
+公会行当	gong1 hui4 hang2 dang1	720
+公会商人	gong1 hui4 shang1 ren2	720
+攻击检定	gong1 ji1 jian3 ding4	720
+工匠工具	gong1 jiang4 gong1 ju4	720
+工匠学识	gong1 jiang4 xue2 shi2	720
+工具熟练项	gong1 ju4 shou2 lian4 xiang4	720
+公理之念	gong1 li3 zhi1 nian4	720
+共视感官	gong4 shi4 gan3 guan1	720
+共享施法	gong4 xiang3 shi1 fa3	720
+构装本质	gou4 zhuang1 ben3 zhi4	720
+构装生物	gou4 zhuang1 sheng1 wu4	720
+骨刺短棒	gu3 ci4 duan3 bang4	720
+骨魔钩镰兵	gu3 mo2 gou1 lian2 bing1	720
+古贤之誓	gu3 xian2 zhi1 shi4	720
+古贤之信条	gu3 xian2 zhi1 xin4 tiao2	720
+怪物定身术	guai4 wu4 ding4 shen1 shu4	720
+怪异洞悉	guai4 yi4 dong4 xi1	720
+怪异拟像	guai4 yi4 ni3 xiang4	720
+怪异之地	guai4 yi4 zhi1 di4	720
+怪影杀手	guai4 ying3 sha1 shou3	720
+观察者眼魔	guan1 cha2 zhe3 yan3 mo2	720
+光明领域	guang1 ming2 ling3 yu4	720
+光照敏感	guang1 zhao4 min3 gan3	720
+鬼斧神工	gui3 fu3 shen2 gong1	720
+鬼婆集会	gui3 po2 ji2 hui4	720
+鬼婆之眼	gui3 po2 zhi1 yan3	720
+诡术伏击	gui3 shu4 fu2 ji1	720
+诡术领域	gui3 shu4 ling3 yu4	720
+诡术祝福	gui3 shu4 zhu4 fu2	720
+诡诈攻击	gui3 zha4 gong1 ji1	720
+滚压冲锋	gun3 ya1 chong1 feng1	720
+哈达之臂	ha3 da2 zhi1 bi4	720
+哈达之欲	ha3 da2 zhi1 yu4	720
+骸骨纳迦	hai2 gu3 na4 jia1	720
+骇人威仪	hai4 ren2 wei1 yi2	720
+寒颤凝视	han2 chan4 ning2 shi4	720
+寒冬之息	han2 dong1 zhi1 xi1	720
+好客乡民	hao4 ke4 xiang1 min2	720
+赫鲁格克之心	he4 lu3 ge2 ke4 zhi1 xin1	720
+黑暗赐福	hei1 an4 ci4 fu2	720
+黑暗灵光	hei1 an4 ling2 guang1	720
+黑暗强运	hei1 an4 qiang2 yun4	720
+黑暗视觉	hei1 an4 shi4 jue2	720
+黑暗忠诚	hei1 an4 zhong1 cheng2	720
+横扫攻击	heng2 sao3 gong1 ji1	720
+虹光法墙	hong2 guang1 fa3 qiang2	720
+虹光喷射	hong2 guang1 pen1 she4	720
+后勤人员	hou4 qin2 ren2 yuan2	720
+槲寄生枝条	hu2 ji4 sheng1 zhi1 tiao2	720
+护甲等级	hu4 jia3 deng3 ji2	720
+护甲熟练项	hu4 jia3 shou2 lian4 xiang4	720
+花言巧语	hua1 yan2 qiao3 yu3	720
+画家工具	hua4 jia1 gong1 ju4	720
+化兽为友	hua4 shou4 wei4 you3	720
+化外之民	hua4 wai4 zhi1 min2	720
+欢愉吐息	huan1 yu2 tu3 xi1	720
+唤起死灵	huan4 qi3 si3 ling2	720
+幻术学派	huan4 shu4 xue2 pai4	720
+幻术学者	huan4 shu4 xue2 zhe3	720
+唤醒心灵	huan4 xing3 xin1 ling2	720
+幻影黑幕	huan4 ying3 hei1 mu4	720
+幻影化形	huan4 ying3 hua4 xing2	720
+荒野形态	huang1 ye3 xing2 tai4	720
+回避侦测	hui2 bi4 zhen1 ce4	720
+回返真言	hui2 fan3 zhen1 yan2	720
+毁灭狂怒	hui3 mie4 kuang2 nu4	720
+昏暗光照	hun1 an4 guang1 zhao4	720
+混沌手下	hun4 dun4 shou3 xia4	720
+混乱之潮	hun4 luan4 zhi1 chao2	720
+活化孢子	huo2 hua4 bao1 zi3	720
+活化巨石	huo2 hua4 ju4 shi2	720
+活化盔甲	huo2 hua4 kui1 jia3	720
+活化魔链	huo2 hua4 mo2 lian4	720
+活化树木	huo2 hua4 shu4 mu4	720
+活化死尸	huo2 hua4 si3 shi1	720
+活力灵光	huo2 li4 ling2 guang1	720
+活体幽影	huo2 ti3 you1 ying3	720
+火蛇利牙	huo3 she2 li4 ya2	720
+火焰风暴	huo3 yan4 feng1 bao4	720
+火焰护盾	huo3 yan4 hu4 dun4	720
+火焰灵光	huo3 yan4 ling2 guang1	720
+火焰射线	huo3 yan4 she4 xian4	720
+火焰吐息	huo3 yan4 tu3 xi1	720
+火焰吸收	huo3 yan4 xi1 shou1	720
+火焰形态	huo3 yan4 xing2 tai4	720
+获得激励	huo4 de2 ji1 li4	720
+惑控学派	huo4 kong4 xue2 pai4	720
+惑控学者	huo4 kong4 xue2 zhe3	720
+豁免检定	huo4 mian3 jian3 ding4	720
+豁免闪避	huo4 mian3 shan3 bi4	720
+惑人低语	huo4 ren2 di1 yu3	720
+基础毒药	ji1 chu3 du2 yao4	720
+饥渴魔刃	ji1 ke3 mo2 ren4	720
+激励之源	ji1 li4 zhi1 yuan2	720
+疾风连击	ji2 feng1 lian2 ji1	720
+汲命之吻	ji2 ming4 zhi1 wen3	720
+集群生物	ji2 qun2 sheng1 wu4	720
+集群战术	ji2 qun2 zhan4 shu4	720
+即时死亡	ji2 shi2 si3 wang2	720
+吉斯洋基骑士	ji2 si1 yang2 ji1 qi2 shi4	720
+吉斯洋基人	ji2 si1 yang2 ji1 ren2	720
+吉斯洋基武者	ji2 si1 yang2 ji1 wu3 zhe3	720
+吉斯泽莱人	ji2 si1 ze2 lai2 ren2	720
+吉斯泽莱武僧	ji2 si1 ze2 lai2 wu3 seng1	720
+吉斯泽莱泽锡修士	ji2 si1 ze2 lai2 ze2 xi1 xiu1 shi4	720
+极效潜行	ji2 xiao4 qian2 xing2	720
+极效治疗	ji2 xiao4 zhi4 liao2	720
+计程客车	ji4 cheng2 ke4 che1	720
+祭司套组	ji4 si1 tao4 zu3	720
+坚强防御	jian1 qiang2 fang2 yu4	720
+坚韧不屈	jian1 ren4 bu4 qu1	720
+坚韧复仇	jian1 ren4 fu4 chou2	720
+坚韧狂暴	jian1 ren4 kuang2 bao4	720
+简易近战武器	jian3 yi4 jin4 zhan4 wu3 qi4	720
+简易远程武器	jian3 yi4 yuan3 cheng2 wu3 qi4	720
+剑刃防护	jian4 ren4 fang2 hu4	720
+剑刃风暴	jian4 ren4 feng1 bao4	720
+剑刃护壁	jian4 ren4 hu4 bi4	720
+践踏冲锋	jian4 ta4 chong1 feng1	720
+脚底抹油	jiao3 di3 mo3 you2	720
+缴械攻击	jiao3 xie4 gong1 ji1	720
+劫掠蛮族	jie2 lve4 man2 zu2	720
+结社法术	jie2 she4 fa3 shu4	720
+结社形态	jie2 she4 xing2 tai4	720
+解除魔法	jie3 chu2 mo2 fa3	720
+借机攻击	jie4 ji1 gong1 ji1	720
+谨慎法术	jin3 shen4 fa3 shu4	720
+尽力补偿	jin4 li4 bu3 chang2	720
+精魂纳迦	jing1 hun2 na4 jia1	720
+荆棘丛生	jing1 ji2 cong2 sheng1	720
+荆棘之鞭	jing1 ji2 zhi1 bian1	720
+精类血统	jing1 lei4 xue4 tong3	720
+精类咒唤术	jing1 lei4 zhou4 huan4 shu4	720
+精灵武器训练	jing1 ling2 wu3 qi4 xun4 lian4	720
+精妙法术	jing1 miao4 fa3 shu4	720
+精魄行者	jing1 po4 xing2 zhe3	720
+精魄寻者	jing1 po4 xun2 zhe3	720
+精通次级幻影	jing1 tong1 ci4 ji2 huan4 ying3	720
+精通防护	jing1 tong1 fang2 hu4	720
+精通分身	jing1 tong1 fen1 shen1	720
+精通闪光	jing1 tong1 shan3 guang1	720
+精通战争魔法	jing1 tong1 zhan4 zheng1 mo2 fa3	720
+精通至圣斩	jing1 tong1 zhi4 sheng4 zhan3	720
+精通重击	jing1 tong1 zhong4 ji1	720
+精通卓越战技	jing1 tong1 zhuo2 yue4 zhan4 ji4	720
+精准攻击	jing1 zhun3 gong1 ji1	720
+警戒箭阵	jing3 jie4 jian4 zhen4	720
+净化灵光	jing4 hua4 ling2 guang1	720
+净化食粮	jing4 hua4 shi2 liang2	720
+净化之触	jing4 hua4 zhi1 chu4	720
+惧怖收割	ju4 bu4 shou1 ge1	720
+巨恶雪人	ju4 e4 xue3 ren2	720
+巨火甲虫	ju4 huo3 jia3 chong2	720
+巨龙先祖	ju4 long2 xian1 zu3	720
+巨猫头鹰	ju4 mao1 tou2 ying1	720
+巨人杀手	ju4 ren2 sha1 shou3	720
+巨武器大师	ju4 wu3 qi4 da4 shi1	720
+巨武器战斗	ju4 wu3 qi4 zhan4 dou4	720
+巨像屠夫	ju4 xiang4 tu2 fu1	720
+角色细节	jue2 se4 xi4 jie2	720
+绝无怜悯	jue2 wu2 lian2 min3	720
+军用近战武器	jun1 yong4 jin4 zhan4 wu3 qi4	720
+军用远程武器	jun1 yong4 yuan3 cheng2 wu3 qi4	720
+卡瑟利之链	ka3 se4 li4 zhi1 lian4	720
+科斯彻奇	ke1 si1 che4 qi2	720
+可靠才能	ke3 kao4 cai2 neng2	720
+克敌机先	ke4 di2 ji1 xian1	720
+空气形态	kong1 qi4 xing2 tai4	720
+恐怖铠甲	kong3 bu4 kai3 jia3	720
+恐怖怒视	kong3 bu4 nu4 shi4	720
+恐怖形象	kong3 bu4 xing2 xiang4	720
+恐吓攻击	kong3 he4 gong1 ji1	720
+恐惧光环	kong3 ju4 guang1 huan2	720
+恐惧灵光	kong3 ju4 ling2 guang1	720
+恐惧面容	kong3 ju4 mian4 rong2	720
+恐惧凝视	kong3 ju4 ning2 shi4	720
+恐惧怒视	kong3 ju4 nu4 shi4	720
+恐惧箴言	kong3 ju4 zhen1 yan2	720
+寇涛鞭策者	kou4 tao1 bian1 ce4 zhe3	720
+寇涛大祭司	kou4 tao1 da4 ji4 si1	720
+寇涛监督	kou4 tao1 jian1 du1	720
+寇涛鱼人	kou4 tao1 yu2 ren2	720
+骷髅牛头人	ku1 lou2 niu2 tou2 ren2	720
+骷髅战马	ku1 lou2 zhan4 ma3	720
+苦痛魔爆	ku3 tong4 mo2 bao4	720
+快速建卡	kuai4 su4 jian4 ka3	720
+快速移动	kuai4 su4 yi2 dong4	720
+狂暴次数	kuang2 bao4 ci4 shu4	720
+狂暴伤害	kuang2 bao4 shang1 hai4	720
+狂野魔法	kuang2 ye3 mo2 fa3	720
+狂野魔法浪涌	kuang2 ye3 mo2 fa3 lang4 yong3	720
+狂战士道途	kuang2 zhan4 shi4 dao4 tu2	720
+盔甲工匠	kui1 jia3 gong1 jiang4	720
+困惑凝视	kun4 huo4 ning2 shi4	720
+困难地形	kun4 nan2 di4 xing2	720
+扩展法术列表	kuo4 zhan3 fa3 shu4 lie4 biao3	720
+拉瑞心灵联结	la1 rui4 xin1 ling2 lian2 jie2	720
+雷霆打击	lei2 ting2 da3 ji1	720
+类人生物	lei4 ren2 sheng1 wu4	720
+冷冻射线	leng3 dong4 she4 xian4	720
+冷冻吐息	leng3 dong4 tu3 xi1	720
+黎明曙光	li2 ming2 shu3 guang1	720
+李欧蒙秘藏箱	li3 ou1 meng2 mi4 cang2 xiang1	720
+李欧蒙小屋	li3 ou1 meng2 xiao3 wu1	720
+力场监牢	li4 chang3 jian1 lao2	720
+立定起跳	li4 ding4 qi3 tiao4	720
+力量检定	li4 liang4 jian3 ding4	720
 历史	li4 shi3	720
+历史检定	li4 shi3 jian3 ding4	720
+连锁闪电	lian2 suo3 shan3 dian4	720
+炼金工具	lian4 jin1 gong1 ju4	720
+炼狱叱喝	lian4 yu4 chi4 he4	720
+链之魔契	lian4 zhi1 mo2 qi4	720
+梁上君子	liang2 shang4 jun1 zi3	720
+猎人印记	lie4 ren2 yin4 ji4	720
+林地之精咒唤术	lin2 di4 zhi1 jing1 zhou4 huan4 shu4	720
+临时武器	lin2 shi2 wu3 qi4	720
+灵动攻击	ling2 dong4 gong1 ji1	720
+灵活施法	ling2 huo2 shi1 fa3	720
+灵机一斩	ling2 ji1 yi1 zhan3	720
+灵敏反应	ling2 min3 fan3 ying4	720
+灵能护体	ling2 neng2 hu4 ti3	720
+灵能灰泥怪	ling2 neng2 hui1 ni2 guai4	720
+灵能碾压	ling2 neng2 nian3 ya1	720
+灵巧步法	ling2 qiao3 bu4 fa3	720
+灵巧动作	ling2 qiao3 dong4 zuo4	720
+灵体卫士	ling2 ti3 wei4 shi4	720
+灵体武器	ling2 ti3 wu3 qi4	720
+领航工具	ling3 hang2 gong1 ju4	720
+领袖之证	ling3 xiu4 zhi1 zheng4	720
+领域法术	ling3 yu4 fa3 shu4	720
+流水形态	liu2 shui3 xing2 tai4	720
+流水之伤	liu2 shui3 zhi1 shang1	720
+龙类天生施法者	long2 lei4 tian1 sheng1 shi1 fa3 zhe3	720
+龙族体魄	long2 zu2 ti3 po4	720
+龙族血脉	long2 zu2 xue4 mai4	720
+龙族血统	long2 zu2 xue4 tong3	720
+鲁莽攻击	lu3 mang3 gong1 ji1	720
+陆运载具	lu4 yun4 zai4 ju4	720
+孪生法术	luan2 sheng1 fa3 shu4	720
+旅行步调	lv3 xing2 bu4 diao4	720
+旅行者服装	lv3 xing2 zhe3 fu2 zhuang1	720
+律令死亡	lv4 ling4 si3 wang2	720
+律令医疗	lv4 ling4 yi1 liao2	720
+律令震慑	lv4 ling4 zhen4 she4	720
+麻痹触击	ma2 bi4 chu4 ji1	720
+麻痹气体	ma2 bi4 qi4 ti3	720
+麻痹吐息	ma2 bi4 tu3 xi1	720
+马拉多米尼	ma3 la1 duo1 mi3 ni2	720
+迈罗人鱼	mai4 luo2 ren2 yu2	720
+麦泽罗斯魔	mai4 ze2 luo2 si1 mo2	720
+冒险用品	mao4 xian3 yong4 pin3	720
+贸易商品	mao4 yi4 shang1 pin3	720
+魅惑动植物	mei4 huo4 dong4 zhi2 wu4	720
+魅力检定	mei4 li4 jian3 ding4	720
+魅影杀手	mei4 ying3 sha1 shou3	720
+魅影之力	mei4 ying3 zhi1 li4	720
+迷宫追忆	mi2 gong1 zhui1 yi4	720
+迷幻手稿	mi2 huan4 shou3 gao3	720
+迷雾幻影	mi2 wu4 huan4 ying3	720
+迷雾形态	mi2 wu4 xing2 tai4	720
+秘法冲锋	mi4 fa3 chong1 feng1	720
+秘法打击	mi4 fa3 da3 ji1	720
+敏捷检定	min3 jie2 jian3 ding4	720
+敏锐感官	min3 rui4 gan3 guan1	720
+敏锐视觉	min3 rui4 shi4 jue2	720
+敏锐视听觉	min3 rui4 shi4 ting1 jue2	720
+敏锐视嗅觉	min3 rui4 shi4 xiu4 jue2	720
+敏锐听觉	min3 rui4 ting1 jue2	720
+敏锐心灵	min3 rui4 xin1 ling2	720
+敏锐嗅觉	min3 rui4 xiu4 jue2	720
+敏锐嗅听觉	min3 rui4 xiu4 ting1 jue2	720
+明亮光照	ming2 liang4 guang1 zhao4	720
+命定事件	ming4 ding4 shi4 jian4	720
+命令亡灵	ming4 ling4 wang2 ling2	720
+魔邓肯豪宅术	mo2 deng4 ken3 hao2 zhai2 shu4	720
+魔邓肯私人密室	mo2 deng4 ken3 si1 ren2 mi4 shi4	720
+魔邓肯之剑	mo2 deng4 ken3 zhi1 jian4	720
+魔邓肯忠犬	mo2 deng4 ken3 zhong1 quan3	720
+魔法奥秘	mo2 fa3 ao4 mi4	720
+魔法抗性	mo2 fa3 kang4 xing4	720
+魔法物品	mo2 fa3 wu4 pin3	720
+魔法学派	mo2 fa3 xue2 pai4	720
+魔化武器	mo2 hua4 wu3 qi4	720
+魔力泉涌	mo2 li4 quan2 yong3	720
+魔能长枪	mo2 neng2 chang2 qiang1	720
+魔能祈唤	mo2 neng2 qi2 huan4	720
+魔能视界	mo2 neng2 shi4 jie4	720
+魔能掌控	mo2 neng2 zhang3 kong4	720
+魔契恩泽	mo2 qi4 en1 ze2	720
+魔冢游荡者	mo2 zhong3 you2 dang4 zhe3	720
+木雕工具	mu4 diao1 gong1 ju4	720
+木匠工具	mu4 jiang4 gong1 ju4	720
+目盲凝视	mu4 mang2 ning2 shi4	720
+木乃伊领主	mu4 nai3 yi1 ling3 zhu3	720
+木质法杖	mu4 zhi4 fa3 zhang4	720
+木桩穿心	mu4 zhuang1 chuan1 xin1	720
+泥怪方块	ni2 guai4 fang1 kuai4	720
+尼卡罗斯魔	ni2 ka3 luo2 si1 mo2	720
+泥泞吐息	ni2 ning4 tu3 xi1	720
+粘土魔像	nian2 tu3 mo2 xiang4	720
+粘性盾牌	nian2 xing4 dun4 pai2	720
+粘液之云	nian2 ye4 zhi1 yun2	720
+念力推挤	nian4 li4 tui1 ji3	720
+酿酒工具	niang4 jiu3 gong1 ju4	720
+涅斯图魔法灵光	nie4 si1 tu2 mo2 fa3 ling2 guang1	720
+凝气刚拳	ning2 qi4 gang1 quan2	720
+牛眼提灯	niu2 yan3 ti2 deng1	720
+扭曲幸运	niu3 qu1 xing4 yun4	720
+诺斯异怪	nuo4 si1 yi4 guai4	720
+欧提路克弹力法球	ou1 ti2 lu4 ke4 tan2 li4 fa3 qiu2	720
+攀爬工具	pan1 pa2 gong1 ju4	720
+皮匠工具	pi2 jiang4 gong1 ju4	720
+偏好骗局	pian1 hao3 pian4 ju2	720
+飘忽不定	piao1 hu1 bu4 ding4	720
+屏蔽心灵	ping2 bi4 xin1 ling2	720
+平民英雄	ping2 min2 ying1 xiong2	720
+破胆斥喝	po4 dan3 chi4 he1	720
+葡萄酒商	pu2 tao2 jiu3 shang1	720
+普通服装	pu3 tong1 fu2 zhuang1	720
+七彩喷射	qi1 cai3 pen1 she4	720
 欺瞒	qi1 man2	720
+欺瞒检定	qi1 man2 jian3 ding4	720
+骑乘战斗	qi2 cheng2 zhan4 dou4	720
+启蒙灌木	qi3 meng2 guan4 mu4	720
+启蒙树木	qi3 meng2 shu4 mu4	720
+起始财富	qi3 shi3 cai2 fu4	720
+起始装备	qi3 shi3 zhuang1 bei4	720
+起死回生	qi3 si3 hui2 sheng1	720
+气化形体	qi4 hua4 xing2 ti3	720
+气与法术	qi4 yu3 fa3 shu4	720
+千面之脸	qian1 mian4 zhi1 lian3	720
+虔诚护盾	qian2 cheng2 hu4 dun4	720
+强盗首领	qiang2 dao4 shou3 ling3	720
+强化属性	qiang2 hua4 shu3 xing4	720
+强健身心	qiang2 jian4 shen1 xin1	720
+强力施法	qiang2 li4 shi1 fa3	720
+强力戏法	qiang2 li4 xi4 fa3	720
+强令对决	qiang2 ling4 dui4 jue2	720
+强弩专家	qiang2 nu3 zhuan1 jia1	720
+强韧召唤	qiang2 ren4 zhao4 huan4	720
+强酸吐息	qiang2 suan1 tu3 xi1	720
+强酸吸收	qiang2 suan1 xi1 shou1	720
+强效法术	qiang2 xiao4 fa3 shu4	720
+强效塑能	qiang2 xiao4 su4 neng2	720
+强效隐形	qiang2 xiao4 yin3 xing2	720
 巧手	qiao3 shou3	720
+巧手检定	qiao3 shou3 jian3 ding4	720
+窃盗本能	qie4 dao4 ben3 neng2	720
+窃取身体	qie4 qu3 shen1 ti3	720
+窃贼套组	qie4 zei2 tao4 zu3	720
+擒抱卷须	qin2 bao4 juan3 xu1	720
+轻度遮蔽	qing1 du4 zhe1 bi4	720
+轻甲运用	qing1 jia3 yun4 yong4	720
+轻捷步伐	qing1 jie2 bu4 fa2	720
+青年幽影红龙	qing1 nian2 you1 ying3 hong2 long2	720
+轻足半身人	qing1 zu2 ban4 shen1 ren2	720
+青足龙蛇	qing1 zu2 long2 she2	720
+穹宇尽视	qiong2 yu3 jin3 shi4	720
+丘陵矮人	qiu1 ling2 ai3 ren2	720
+驱散不洁	qu1 san4 bu4 jie2	720
+驱散不死生物	qu1 san4 bu4 si3 sheng1 wu4	720
+驱散免疫	qu1 san4 mian3 yi4	720
+驱散无信者	qu1 san4 wu2 xin4 zhe3	720
+区域解读	qu1 yu4 jie3 du2	720
+区域效应	qu1 yu4 xiao4 ying4	720
+全身掩护	quan2 shen1 yan3 hu4	720
+群体暗示术	qun2 ti3 an4 shi4 shu4	720
+群体疗伤术	qun2 ti3 liao2 shang1 shu4	720
+群体医疗术	qun2 ti3 yi1 liao2 shu4	720
+群体治愈真言	qun2 ti3 zhi4 yu4 zhen1 yan2	720
+燃火照明	ran2 huo3 zhao4 ming2	720
+燃烬吐息	ran2 jin4 tu3 xi1	720
+燃烧之手	ran2 shao1 zhi1 shou3	720
+燃焰之颅	ran2 yan4 zhi1 lu2	720
+扰乱打击	rao3 luan4 da3 ji1	720
+扰乱生命	rao3 luan4 sheng1 ming4	720
+扰人断肢	rao3 ren2 duan4 zhi1	720
+人工生命体	ren2 gong1 sheng1 ming4 ti3	720
+人见人爱	ren2 jian4 ren2 ai4	720
+人类变体	ren2 lei4 bian4 ti3	720
+人类定身术	ren2 lei4 ding4 shen1 shu4	720
+人物特征	ren2 wu4 te4 zheng1	720
+刃之魔契	ren4 zhi1 mo2 qi4	720
+日照过敏	ri4 zhao4 guo4 min3	720
+日照敏感	ri4 zhao4 min3 gan3	720
+日照弱点	ri4 zhao4 ruo4 dian3	720
+融身入石	rong2 shen1 ru4 shi2	720
+融身入影	rong2 shen1 ru4 ying3	720
+熔岩魔蝠	rong2 yan2 mo2 fu2	720
+肉身魔像	rou4 shen1 mo2 xiang4	720
+蠕行之爪	ru2 xing2 zhi1 zhao3	720
+弱化吐息	ruo4 hua4 tu3 xi1	720
+散打技巧	san4 da3 ji4 qiao3	720
+森林侏儒	sen1 lin2 zhu1 ru2	720
+沙华鱼人	sha1 hua2 yu2 ren2	720
+杀戮长弓	sha1 lu4 chang2 gong1	720
+鲨心感应	sha1 xin1 gan3 ying4	720
+山地矮人	shan1 di4 ai3 ren2	720
+煽动横行	shan1 dong4 heng2 xing2	720
+山丘巨人	shan1 qiu1 ju4 ren2	720
+闪电打击	shan3 dian4 da3 ji1	720
+闪电箭矢	shan3 dian4 jian4 shi3	720
+闪电吐息	shan3 dian4 tu3 xi1	720
+闪电吸收	shan3 dian4 xi1 shou1	720
+闪光护盾	shan3 guang1 hu4 dun4	720
+熵光结界	shang1 guang1 jie2 jie4	720
+伤害抗性	shang1 hai4 kang4 xing4	720
+伤害掷骰	shang1 hai4 zhi4 tou2	720
+伤害转嫁	shang1 hai4 zhuan3 jia4	720
+商用天平	shang1 yong4 tian1 ping2	720
+上古斗士	shang4 gu3 dou4 shi4	720
+设阱捕兽者	she4 jing3 bu3 shou4 zhe3	720
+摄食生命	she4 shi2 sheng1 ming4	720
+摄心目光	she4 xin1 mu4 guang1	720
+身化长流	shen1 hua4 chang2 liu2	720
+深入调查	shen1 ru4 diao4 cha2	720
+深狱炼魔	shen1 yu4 lian4 mo2	720
+神秘莫测	shen2 mi4 mo4 ce4	720
+神圣打击	shen2 sheng4 da3 ji1	720
+神圣干预	shen2 sheng4 gan1 yu4	720
+神圣感知	shen2 sheng4 gan3 zhi1	720
+神圣领域	shen2 sheng4 ling3 yu4	720
+神圣启示	shen2 sheng4 qi3 shi4	720
+神圣誓言	shen2 sheng4 shi4 yan2	720
+神圣武器	shen2 sheng4 wu3 qi4	720
+神性警觉	shen2 xing4 jing3 jue2	720
+神佑医者	shen2 you4 yi1 zhe3	720
+生成法术位	sheng1 cheng2 fa3 shu4 wei4	720
+生成旋风	sheng1 cheng2 xuan2 feng1	720
+生成幽灵	sheng1 cheng2 you1 ling2	720
 生存	sheng1 cun2	720
+生存检定	sheng1 cun2 jian3 ding4	720
+升环施法	sheng1 huan2 shi1 fa3	720
+生活开支	sheng1 huo2 kai1 zhi1	720
+升阶法术	sheng1 jie1 fa3 shu4	720
+生命灵光	sheng1 ming4 ling2 guang1	720
+生命领域	sheng1 ming4 ling3 yu4	720
+生命门徒	sheng1 ming4 men2 tu2	720
+生命值上限	sheng1 ming4 zhi2 shang4 xian4	720
+生物定位术	sheng1 wu4 ding4 wei4 shu4	720
+圣洁灵光	sheng4 jie2 ling2 guang1	720
+圣誓法术	sheng4 shi4 fa3 shu4	720
+施法服务	shi1 fa3 fu2 wu4	720
+施法距离	shi1 fa3 ju4 li2	720
+施法时间	shi1 fa3 shi2 jian1	720
+施法属性	shi1 fa3 shu3 xing4	720
+施法最高气消耗量	shi1 fa3 zui4 gao1 qi4 xiao1 hao4 liang4	720
+施放元素法术	shi1 fang4 yuan2 su4 fa3 shu4	720
+失权威学者	shi1 quan2 wei1 xue2 zhe3	720
+诗人激励	shi1 ren2 ji1 li4	720
+失心狂怒	shi1 xin1 kuang2 nu4	720
+石化凝视	shi2 hua4 ning2 shi4	720
+石化吐息	shi2 hua4 tu3 xi1	720
+石化蜥蜴	shi2 hua4 xi1 yi4	720
+石匠工具	shi2 jiang4 gong1 ju4	720
+石盲蛮族	shi2 mang2 man2 zu2	720
+识破隐形	shi2 po4 yin3 xing2	720
+食人魔僵尸	shi2 ren2 mo2 jiang1 shi1	720
+食人鱼群	shi2 ren2 yu2 qun2	720
+石中精妙	shi2 zhong1 jing1 miao4	720
+十字军披风	shi2 zi4 jun1 pi1 feng1	720
+史拉蟾蝌蚪	shi3 la1 chan2 ke1 dou3	720
+史拉蟾语	shi3 la1 chan2 yu3	720
+史拉蟾之心	shi3 la1 chan2 zhi1 xin1	720
+史拉红蟾	shi3 la1 hong2 chan2	720
+史拉灰蟾	shi3 la1 hui1 chan2	720
+史拉蓝蟾	shi3 la1 lan2 chan2	720
+史拉绿蟾	shi3 la1 lv4 chan2	720
+史拉亡蟾	shi3 la1 wang2 chan2	720
+使用激励	shi3 yong4 ji1 li4	720
+使用魔法装置	shi3 yong4 mo2 fa3 zhuang1 zhi4	720
+熟练雇工	shou2 lian4 gu4 gong1	720
+守护光明	shou3 hu4 guang1 ming2	720
+守护灵光	shou3 hu4 ling2 guang1	720
+守护之链	shou3 hu4 zhi1 lian4	720
+守卫刻文	shou3 wei4 ke4 wen2	720
+守御灵光	shou3 yu4 ling2 guang1	720
+守御闪光	shou3 yu4 shan3 guang1	720
+狩猎采集者	shou4 lie4 cai3 ji2 zhe3	720
+狩猎陷阱	shou4 lie4 xian4 jing3	720
+兽人军官	shou4 ren2 jun1 guan1	720
+兽性狂怒	shou4 xing4 kuang2 nu4	720
+书法工具	shu1 fa3 gong1 ju4	720
+书之魔契	shu1 zhi1 mo2 qi4	720
+属性检定	shu3 xing4 jian3 ding4	720
+属性值加成	shu3 xing4 zhi2 jia1 cheng2	720
+属性值提升	shu3 xing4 zhi2 ti2 sheng1	720
+术法复苏	shu4 fa3 fu4 su1	720
+术法起源	shu4 fa3 qi3 yuan2	720
+摔绊攻击	shuai1 ban4 gong1 ji1	720
+衰弱射线	shuai1 ruo4 she4 xian4	720
+双持武器战斗	shuang1 chi2 wu3 qi4 zhan4 dou4	720
+双人帐篷	shuang1 ren2 zhang4 peng2	720
+双头巨人	shuang1 tou2 ju4 ren2	720
+双武器战斗	shuang1 wu3 qi4 zhan4 dou4	720
+双足飞龙	shuang1 zu2 fei1 long2	720
+水陆两栖	shui3 lu4 liang3 qi1	720
+水上行走	shui3 shang4 xing2 zou3	720
+水体易感	shui3 ti3 yi4 gan3	720
+水体约束	shui3 ti3 yue1 shu4	720
+水下伪装	shui3 xia4 wei3 zhuang1	720
+水运载具	shui3 yun4 zai4 ju4	720
+水中隐形	shui3 zhong1 yin3 xing2	720
+睡眠凝视	shui4 mian2 ning2 shi4	720
+睡眠吐息	shui4 mian2 tu3 xi1	720
+瞬发法术	shun4 fa1 fa3 shu4	720
 说服	shuo1 fu2	720
+斯涅布力	si1 nie4 bu4 li4	720
+斯皮纳魔	si1 pi2 na4 mo2	720
+思维之盾	si1 wei2 zhi1 dun4	720
+死灵学派	si3 ling2 xue2 pai4	720
+死灵学者	si3 ling2 xue2 zhe3	720
+死亡法阵	si3 wang2 fa3 zhen4	720
+死亡豁免	si3 wang2 huo4 mian3	720
+死亡怒视	si3 wang2 nu4 shi4	720
+死亡一指	si3 wang2 yi1 zhi3	720
+死者交谈	si3 zhe3 jiao1 tan2	720
+四分之三掩护	si4 fen1 zhi1 san1 yan3 hu4	720
+四轮货车	si4 lun2 huo4 che1	720
+四轮客车	si4 lun2 ke4 che1	720
+四象门徒	si4 xiang4 men2 tu2	720
+塑能学派	su4 neng2 xue2 pai4	720
+塑能学者	su4 neng2 xue2 zhe3	720
+酸液飞溅	suan1 ye4 fei1 jian4	720
+酸液喷射	suan1 ye4 pen1 she4	720
+岁月知识	sui4 yue4 zhi1 shi2	720
+索尔石怪	suo3 er3 shi2 guai4	720
+索诺祭司	suo3 nuo4 ji4 si1	720
+索斯爵士	suo3 si1 jue2 shi4	720
+塔莎狂笑术	ta3 sha1 kuang2 xiao4 shu4	720
+泰拉斯奎巨兽	tai4 la1 si1 kui2 ju4 shou4	720
+谭森浮碟术	tan2 sen1 fu2 die2 shu4	720
+探查感应	tan4 cha2 gan3 ying4	720
+探索套组	tan4 suo3 tao4 zu3	720
+陶匠工具	tao2 jiang4 gong1 ju4	720
+逃脱擒抱	tao2 tuo1 qin2 bao4	720
+特技检定	te4 ji4 jian3 ding4	720
+特权地位	te4 quan2 di4 wei4	720
+特殊武器	te4 shu1 wu3 qi4	720
+特殊训练	te4 shu1 xun4 lian4	720
+提升抗性	ti2 sheng1 kang4 xing4	720
 体操	ti3 cao1	720
+体质检定	ti3 zhi4 jian3 ding4	720
+天界生物	tian1 jie4 sheng1 wu4	720
+天界咒唤术	tian1 jie4 zhou4 huan4 shu4	720
+天神使徒	tian1 shen2 shi3 tu2	720
+天生护甲	tian1 sheng1 hu4 jia3	720
+天生善匿	tian1 sheng1 shan4 ni4	720
+天生施法	tian1 sheng1 shi1 fa3	720
+天使武器	tian1 shi3 wu3 qi4	720
+挑衅攻击	tiao3 xin4 gong1 ji1	720
+铁匠工具	tie3 jiang4 gong1 ju4	720
+铁质嗅觉	tie3 zhi4 xiu4 jue2	720
+通念孢子	tong1 nian4 bao1 zi3	720
+通晓传奇	tong1 xiao3 chuan2 qi2	720
+通晓语言	tong1 xiao3 yu3 yan2	720
+痛觉孢子	tong4 jue2 bao1 zi3	720
+投射守御	tou2 she4 shou3 yu4	720
+投石索弹丸	tou2 shi2 suo3 dan4 wan2	720
+投掷烈焰	tou2 zhi4 lie4 yan4	720
+透视过去	tou4 shi4 guo4 qu4	720
+突刺攻击	tu1 ci4 gong1 ji1	720
+突袭打击	tu1 xi2 da3 ji1	720
+屠灭众敌	tu2 mie4 zhong4 di2	720
+图书馆员	tu2 shu1 guan3 yuan2	720
+图腾精魄	tu2 teng2 jing1 po4	720
+图腾同调	tu2 teng2 tong2 diao4	720
+图腾武者	tu2 teng2 wu3 zhe3	720
+图腾武者道途	tu2 teng2 wu3 zhe3 dao4 tu2	720
+土巨怪语	tu3 ju4 guai4 yu3	720
+吐息武器	tu3 xi1 wu3 qi4	720
+团体检定	tuan2 ti3 jian3 ding4	720
+推撞攻击	tui1 zhuang4 gong1 ji1	720
+吞火艺人	tun1 huo3 yi4 ren2	720
+吞食智力	tun1 shi2 zhi4 li4	720
+蛙类交流	wa1 lei4 jiao1 liu2	720
+完美追踪者	wan2 mei3 zhui1 zong1 zhe3	720
+完全变形术	wan2 quan2 bian4 xing2 shu4	720
+完全复生术	wan2 quan2 fu4 sheng1 shu4	720
+万灵秘药	wan4 ling2 mi4 yao4	720
+万能诡术	wan4 neng2 gui3 shu4	720
+万形之主	wan4 xing2 zhi1 zhu3	720
+王车易位	wang2 che1 yi4 wei4	720
+亡命恶犬	wang2 ming4 e4 quan3	720
+亡眼暴君	wang2 yan3 bao4 jun1	720
+微光光照	wei1 guang1 guang1 zhao4	720
 威吓	wei1 he4	720
+威吓检定	wei1 he4 jian3 ding4	720
+威慑之姿	wei1 she4 zhi1 zi1	720
+维持光明	wei2 chi2 guang1 ming2	720
+维持生命	wei2 chi2 sheng1 ming4	720
+尾钉再生	wei3 ding1 zai4 sheng1	720
+尾击攻击	wei3 ji1 gong1 ji1	720
+文书伪造工具	wen2 shu1 wei3 zao4 gong1 ju4	720
+稳定伤势	wen3 ding4 shang1 shi4	720
+问道自然	wen4 dao4 zi4 ran2	720
+污臭之云	wu1 chou4 zhi1 yun2	720
+巫师杀手	wu1 shi1 sha1 shou3	720
+巫术视界	wu1 shu4 shi4 jie4	720
+乌特罗斯魔	wu1 te4 luo2 si1 mo2	720
+无甲防御	wu2 jia3 fang2 yu4	720
+无甲移动	wu2 jia3 yi2 dong4	720
+无声幻影	wu2 sheng1 huan4 ying3	720
+武器联结	wu3 qi4 lian2 jie2	720
+武器熟练项	wu3 qi4 shou2 lian4 xiang4	720
+武器属性	wu3 qi4 shu3 xing4	720
+武僧等级	wu3 seng1 deng3 ji2	720
+武术范型	wu3 shu4 fan4 xing2	720
+五运窃贼	wu3 yun4 qie4 zei2	720
+物件定位术	wu4 jian4 ding4 wei4 shu4	720
+物件解读	wu4 jian4 jie3 du2	720
+物质位面	wu4 zhi4 wei4 mian4	720
+吸取能量	xi1 qu3 neng2 liang4	720
+吸取生命	xi1 qu3 sheng1 ming4	720
+吸取心灵	xi1 qu3 xin1 ling2	720
+吸取血液	xi1 qu3 xue4 ye4	720
+希望信标	xi1 wang4 xin4 biao1	720
+吸血鬼弱点	xi1 xue4 gui3 ruo4 dian3	720
+吸血鬼施法者	xi1 xue4 gui3 shi1 fa3 zhe3	720
+吸血鬼武者	xi1 xue4 gui3 wu3 zhe3	720
+吸血鬼衍体	xi1 xue4 gui3 yan3 ti3	720
+吸血鬼之触	xi1 xue4 gui3 zhi1 chu4	720
+蜥蜴女王	xi1 yi4 nv3 wang2	720
+蜥蜴人萨满	xi1 yi4 ren2 sa4 man3	720
+蜥蜴之王	xi1 yi4 zhi1 wang2	720
+先发激励	xian1 fa1 ji1 li4	720
+先决条件	xian1 jue2 tiao2 jian4	720
+险境感知	xian3 jing4 gan3 zhi1	720
+陷入昏迷	xian4 ru4 hun1 mi2	720
+镶钉皮甲	xiang1 ding1 pi2 jia3	720
+相位蜘蛛	xiang4 wei4 zhi1 zhu1	720
+小型野兽交谈	xiao3 xing2 ye3 shou4 jiao1 tan2	720
+效应范围	xiao4 ying4 fan4 wei2	720
+邪秽诅咒	xie2 hui4 zu3 zhou4	720
+鞋匠工具	xie2 jiang4 gong1 ju4	720
+邪教狂信者	xie2 jiao4 kuang2 xin4 zhe3	720
+邪魔活力	xie2 mo2 huo2 li4	720
+邪魔魅惑	xie2 mo2 mei4 huo4	720
+邪魔体魄	xie2 mo2 ti3 po4	720
+邪魔祝福	xie2 mo2 zhu4 fu2	720
+邪眼诅咒	xie2 yan3 zu3 zhou4	720
+心灵感应	xin1 ling2 gan3 ying4	720
+心灵连结	xin1 ling2 lian2 jie2	720
+心灵泥沼	xin1 ling2 ni2 zhao3	720
+心灵屏障	xin1 ling2 ping2 zhang4	720
+心灵遥控	xin1 ling2 yao2 kong4	720
+心灵震爆	xin1 ling2 zhen4 bao4	720
+心如止水	xin1 ru2 zhi3 shui3	720
+新手雇工	xin1 shou3 gu4 gong1	720
+心无旁骛	xin1 wu2 pang2 wu4	720
+心之视界	xin1 zhi1 shi4 jie4	720
+信仰庇护	xin4 yang3 bi4 hu4	720
+信仰守卫	xin4 yang3 shou3 wei4	720
+星界投影	xing1 jie4 tou2 ying3	720
+星移步法	xing1 yi2 bu4 fa3	720
+行动无踪	xing2 dong4 wu2 zong1	720
+行进队列	xing2 jin4 dui4 lie4	720
+形体变化	xing2 ti3 bian4 hua4	720
+幸运一击	xing4 yun4 yi1 ji1	720
+凶蛮打手	xiong1 man2 da3 shou3	720
+凶蛮攻击	xiong1 man2 gong1 ji1	720
+凶蛮重击	xiong1 man2 zhong4 ji1	720
+凶兆符记	xiong1 zhao4 fu2 ji4	720
+熊地精酋长	xiong2 di4 jing1 qiu2 zhang3	720
+修补工具	xiu1 bu3 gong1 ju4	720
+锈蚀金属	xiu4 shi2 jin1 shu3	720
+虚体移动	xu1 ti3 yi2 dong4	720
+玄奥秘法	xuan2 ao4 mi4 fa3	720
+穴居攫怪	xue2 ju1 jue2 guai4	720
+学习法术	xue2 xi2 fa3 shu4	720
+学者套组	xue2 zhe3 tao4 zu3	720
+雪地伪装	xue3 di4 wei3 zhuang1	720
+血腥狂怒	xue4 xing1 kuang2 nu4	720
+寻获魔宠	xun2 huo4 mo2 chong3	720
+寻获坐骑	xun2 huo4 zuo4 qi2	720
+巡守纳迦	xun2 shou3 na4 jia1	720
+寻找陷阱	xun2 zhao3 xian4 jing3	720
+迅捷箭袋	xun4 jie2 jian4 dai4	720
+迅捷逃逸	xun4 jie2 tao2 yi4	720
 驯兽	xun4 shou4	720
+驯兽检定	xun4 shou4 jian3 ding4	720
+延迟爆裂火球	yan2 chi2 bao4 lie4 huo3 qiu2	720
+岩地伪装	yan2 di4 wei3 zhuang1	720
+研究发现	yan2 jiu1 fa1 xian4	720
+延效法术	yan2 xiao4 fa3 shu4	720
+炎狱抗性	yan2 yu4 kang4 xing4	720
+眼波射线	yan3 bo1 she4 xian4	720
+眼魔僵尸	yan3 mo2 jiang1 shi1	720
+演艺方向	yan3 yi4 fang1 xiang4	720
+阳炎射线	yang2 yan2 she4 xian4	720
+妖精荒野	yao1 jing1 huang1 ye3	720
+妖精魅惑	yao1 jing1 mei4 huo4	720
+妖精仪态	yao1 jing1 yi2 tai4	720
+耶诺古毒牙	ye2 nuo4 gu3 du2 ya2	720
+野炊工具	ye3 chui1 gong1 ju4	720
+野兽施法	ye3 shou4 shi1 fa3	720
+野兽形态	ye3 shou4 xing2 tai4	720
+野兽知觉	ye3 shou4 zhi1 jue2	720
+野兽之语	ye3 shou4 zhi1 yu3	720
+野性感官	ye3 xing4 gan3 guan1	720
+野性面具	ye3 xing4 mian4 ju4	720
+野性直觉	ye3 xing4 zhi2 jue2	720
 医药	yi1 yao4	720
+医药检定	yi1 yao4 jian3 ding4	720
+移除诅咒	yi2 chu2 zu3 zhou4	720
+仪式施法	yi2 shi4 shi1 fa3	720
+仪式施法者	yi2 shi4 shi1 fa3 zhe3	720
+遗体防腐	yi2 ti3 fang2 fu3	720
+以太漫游	yi3 tai4 man4 you2	720
+以太跳跃	yi3 tai4 tiao4 yue4	720
+已知法术	yi3 zhi1 fa3 shu4	720
+易变幻象	yi4 bian4 huan4 xiang4	720
+疫病虫群	yi4 bing4 chong2 qun2	720
+异界传送	yi4 jie4 chuan2 song4	720
+异界神侍	yi4 jie4 shen2 shi4	720
+异界誓缚	yi4 jie4 shi4 fu4	720
+异界誓盟	yi4 jie4 shi4 meng2	720
+异界探知	yi4 jie4 tan4 zhi1	720
+异界之门	yi4 jie4 zhi1 men2	720
+异界宗主	yi4 jie4 zong1 zhu3	720
+艺人套组	yi4 ren2 tao4 zu3	720
+易容工具	yi4 rong2 gong1 ju4	720
+逸闻学院	yi4 wen2 xue2 yuan4	720
+亦真亦幻	yi4 zhen1 yi4 huan4	720
+抑制元素	yi4 zhi4 yuan2 su4	720
+吟游诗人学院	yin2 you2 shi1 ren2 xue2 yuan4	720
+银质武器	yin2 zhi4 wu3 qi4	720
+引导负能量	yin3 dao3 fu4 neng2 liang4	720
+引导神力	yin3 dao3 shen2 li4	720
+隐居生活	yin3 ju1 sheng1 huo2	720
 隐匿	yin3 ni4	720
+隐匿检定	yin3 ni4 jian3 ding4	720
+隐形仆役	yin3 xing2 pu2 yi4	720
+隐形通道	yin3 xing2 tong1 dao4	720
+隐形追猎者	yin3 xing2 zhui1 lie4 zhe3	720
+英雄气概	ying1 xiong2 qi4 gai4	720
+硬受驱散	ying4 shou4 qu1 san4	720
+勇气灵光	yong3 qi4 ling2 guang1	720
+勇气学院	yong3 qi4 xue2 yuan4	720
+幽暗地域	you1 an4 di4 yu4	720
+幽影斗篷	you1 ying3 dou3 peng2	720
+幽影恶魔	you1 ying3 e4 mo2	720
+幽影护甲	you1 ying3 hu4 jia3	720
+幽影吐息	you1 ying3 tu3 xi1	720
+幽影隐匿	you1 ying3 yin3 ni4	720
+游荡者范型	you2 dang4 zhe3 fan4 xing2	720
+尤格罗斯魔	you2 ge2 luo2 si1 mo2	720
+游牧蛮族	you2 mu4 man2 zu2	720
+游说检定	you2 shui4 jian3 ding4	720
+游侠伴侣	you2 xia2 ban4 lv3	720
+游侠范型	you2 xia2 fan4 xing2	720
+诱捕打击	you4 bu3 da3 ji1	720
+诱导话术	you4 dao3 hua4 shu4	720
+诱惑之歌	you4 huo4 zhi1 ge1	720
+语出惊人	yu3 chu1 jing1 ren2	720
+语言学家	yu3 yan2 xue2 jia1	720
+御风而行	yu4 feng1 er2 xing2	720
+预言学派	yu4 yan2 xue2 pai4	720
+预言学者	yu4 yan2 xue2 zhe3	720
+预言专家	yu4 yan2 zhuan1 jia1	720
+预置幻影	yu4 zhi4 huan4 ying3	720
+原初打击	yuan2 chu1 da3 ji1	720
+原初道途	yuan2 chu1 dao4 tu2	720
+原初斗士	yuan2 chu1 dou4 shi4	720
+原初意识	yuan2 chu1 yi4 shi2	720
+圆滑心智	yuan2 hua2 xin1 zhi4	720
+原力法阵	yuan2 li4 fa3 zhen4	720
+元素导师	yuan2 su4 dao3 shi1	720
+元素荒野形态	yuan2 su4 huang1 ye3 xing2 tai4	720
+元素亲和	yuan2 su4 qin1 he2	720
+元素生物	yuan2 su4 sheng1 wu4	720
+元素同调	yuan2 su4 tong2 diao4	720
+元素武器	yuan2 su4 wu3 qi4	720
+元素消亡	yuan2 su4 xiao1 wang2	720
+元素咒唤术	yuan2 su4 zhou4 huan4 shu4	720
+原体蛇人	yuan2 ti3 she2 ren2	720
+远程法术	yuan3 cheng2 fa3 shu4	720
+远古奥秘之书	yuan3 gu3 ao4 mi4 zhi1 shu1	720
+月华之光	yue4 hua2 zhi1 guang1	720
+月亮结社	yue4 liang4 jie2 she4	720
 运动	yun4 dong4	720
+运动检定	yun4 dong4 jian3 ding4	720
+运动健将	yun4 dong4 jian4 jiang4	720
+载具熟练项	zai4 ju4 shou2 lian4 xiang4	720
+泽地熊人	ze2 di4 xiong2 ren2	720
+增强感应	zeng1 qiang2 gan3 ying4	720
+增强黑暗视觉	zeng1 qiang2 hei1 an4 shi4 jue2	720
+憎恶蛇人	zeng1 wu4 she2 ren2	720
+战地施法者	zhan4 di4 shi1 fa3 zhe3	720
+战斗大师	zhan4 dou4 da4 shi1	720
+战斗风格	zhan4 dou4 feng1 ge2	720
+战斗化身	zhan4 dou4 hua4 shen1	720
+战斗荒野形态	zhan4 dou4 huang1 ye3 xing2 tai4	720
+战斗激励	zhan4 dou4 ji1 li4	720
+战斗魔法	zhan4 dou4 mo2 fa3	720
+战技专家	zhan4 ji4 zhuan1 jia1	720
+战栗打击	zhan4 li4 da3 ji1	720
+战马护甲	zhan4 ma3 hu4 jia3	720
+战神祝福	zhan4 shen2 zhu4 fu2	720
+战争祭司	zhan4 zheng1 ji4 si1	720
+战争领域	zhan4 zheng1 ling3 yu4	720
+战争魔法	zhan4 zheng1 mo2 fa3	720
+战争学徒	zhan4 zheng1 xue2 tu2	720
+招牌法术	zhao1 pai2 fa3 shu4	720
+爪击攻击	zhao3 ji1 gong1 ji1	720
+沼泽伪装	zhao3 ze2 wei3 zhuang1	720
+召唤分身	zhao4 huan4 fen1 shen1	720
+召唤箭雨	zhao4 huan4 jian4 yu3	720
+召唤气元素	zhao4 huan4 qi4 yuan2 su4	720
+蛰伏伪怪	zhe2 fu2 wei3 guai4	720
+侦测毒性和疾病	zhen1 ce4 du2 xing4 he2 ji2 bing4	720
+侦测善恶	zhen1 ce4 shan4 e4	720
+侦测生命	zhen1 ce4 sheng1 ming4	720
+侦测思想	zhen1 ce4 si1 xiang3	720
+侦测智能	zhen1 ce4 zhi4 neng2	720
+真龙姿态	zhen1 long2 zi1 tai4	720
+真气驻拳	zhen1 qi4 zhu4 quan2	720
+真实视觉	zhen1 shi2 shi4 jue2	720
+振翅攻击	zhen4 chi4 gong1 ji1	720
+震慑尖叫	zhen4 she4 jian1 jiao4	720
+蒸汽魔蝠	zheng1 qi4 mo2 fu2	720
+蒸汽吐息	zheng1 qi4 tu3 xi1	720
+织布工具	zhi1 bu4 gong1 ju4	720
+知己知彼	zhi1 ji3 zhi1 bi3	720
+支配宝石	zhi1 pei4 bao3 shi2	720
+支配怪物	zhi1 pei4 guai4 wu4	720
+支配野兽	zhi1 pei4 ye3 shou4	720
+知识领域	zhi1 shi2 ling3 yu4	720
+知识祝福	zhi1 shi2 zhu4 fu2	720
+直觉魅惑	zhi2 jue2 mei4 huo4	720
+植物交谈	zhi2 wu4 jiao1 tan2	720
+植物滋长	zhi2 wu4 zi1 zhang3	720
+职业杀手	zhi2 ye4 sha1 shou3	720
+职业特性	zhi2 ye4 te4 xing4	720
+直坠噩梦	zhi2 zhui4 e4 meng4	720
+指挥官奇袭	zhi3 hui1 guan1 qi2 xi2	720
+致病巨鼠	zhi4 bing4 ju4 shu3	720
+致病射线	zhi4 bing4 she4 xian4	720
+制毒工具	zhi4 du2 gong1 ju4	720
+至高妖精	zhi4 gao1 yao1 jing1	720
+致幻孢子	zhi4 huan4 bao1 zi3	720
+智力检定	zhi4 li4 jian3 ding4	720
+治疗祷言	zhi4 liao2 dao3 yan2	720
+致盲粉尘	zhi4 mang2 fen3 chen2	720
+致盲吐息	zhi4 mang2 tu3 xi1	720
+致盲唾沫	zhi4 mang2 tuo4 mo4	720
+致命一击	zhi4 ming4 yi1 ji1	720
+致命一跃	zhi4 ming4 yi1 yue4	720
+至圣光轮	zhi4 sheng4 guang1 lun2	720
+制图工具	zhi4 tu2 gong1 ju4	720
+治愈真言	zhi4 yu4 zhen1 yan2	720
+治愈之触	zhi4 yu4 zhi1 chu4	720
+中甲大师	zhong1 jia3 da4 shi1	720
+中甲运用	zhong1 jia3 yun4 yong4	720
+重度遮蔽	zhong4 du4 zhe1 bi4	720
+重甲大师	zhong4 jia3 da4 shi1	720
+重甲运用	zhong4 jia3 yun4 yong4	720
+咒法学派	zhou4 fa3 xue2 pai4	720
+咒法学者	zhou4 fa3 xue2 zhe3	720
+咒法专注	zhou4 fa3 zhuan1 zhu4	720
+珠宝匠工具	zhu1 bao3 jiang4 gong1 ju4	720
+朱庇莱克斯	zhu1 bi4 lai2 ke4 si1	720
+蛛化精灵	zhu1 hua4 jing1 ling2	720
+侏儒狡黠	zhu1 ru2 jiao3 xia2	720
+蛛丝绞索	zhu1 si1 jiao3 suo3	720
+蛛网感知	zhu1 wang3 gan3 zhi1	720
+蛛网行者	zhu1 wang3 xing2 zhe3	720
+助跑起跳	zhu4 pao3 qi3 tiao4	720
+专业渗透	zhuan1 ye4 shen4 tou4	720
+专业实践	zhuan1 ye4 shi2 jian4	720
+专有特质	zhuan1 you3 te4 zhi4	720
+装备套组	zhuang1 bei4 tao4 zu3	720
+准备法术	zhun3 bei4 fa3 shu4	720
+卓尔精英武者	zhuo2 er3 jing1 ying1 wu3 zhe3	720
+卓尔罗丝女祭司	zhuo2 er3 luo2 si1 nv3 ji4 si1	720
+卓尔魔法	zhuo2 er3 mo2 fa3	720
+卓尔魔法师	zhuo2 er3 mo2 fa3 shi1	720
+卓尔武器训练	zhuo2 er3 wu3 qi4 xun4 lian4	720
+卓姆吉瞬间召唤	zhuo2 mu3 ji2 shun4 jian1 zhao4 huan4	720
+灼热金属	zhuo2 re4 jin1 shu3	720
+灼热射线	zhuo2 re4 she4 xian4	720
+灼热武器	zhuo2 re4 wu3 qi4	720
+灼热之躯	zhuo2 re4 zhi1 qu1	720
+卓越战技	zhuo2 yue4 zhan4 ji4	720
+紫衫魔杖	zi3 shan1 mo2 zhang4	720
+自定义选项	zi4 ding4 yi4 xuan3 xiang4	720
 自然	zi4 ran2	720
+自然庇护所	zi4 ran2 bi4 hu4 suo3	720
+自然幻术师	zi4 ran2 huan4 shu4 shi1	720
+自然检定	zi4 ran2 jian3 ding4	720
+自然领域	zi4 ran2 ling3 yu4	720
+自然侍僧	zi4 ran2 shi4 seng1	720
+自然探索者	zi4 ran2 tan4 suo3 zhe3	720
+自然之护	zi4 ran2 zhi1 hu4	720
+自然之主	zi4 ran2 zhi1 zhu3	720
 宗教	zong1 jiao4	720
+宗教检定	zong1 jiao4 jian3 ding4	720
+纵感欠缺	zong4 gan3 qian4 que1	720
+祖格莫伊	zu3 ge2 mo4 yi1	720
+罪犯接头人	zui4 fan4 jie1 tou2 ren2	720
+醉人触击	zui4 ren2 chu4 ji1	720
+作案手法	zuo4 an4 shou3 fa3	720
+作祟幽灵	zuo4 sui4 you1 ling2	720
