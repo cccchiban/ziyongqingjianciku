@@ -28,6 +28,7 @@ NOT_NAME = re.compile(u"(的母亲|的父亲|的祖母|的祖父|的爷爷|的�
 # 非中文人名的残留：纯英文、含数字
 BAD = re.compile(u"^[A-Za-z0-9\\s\\.\\-]+$")
 CJK = re.compile(u"[\\u3400-\\u9fff]")
+KANA = re.compile(u"[ぁ-んァ-ヶー]")
 
 
 def extract(text):
@@ -41,7 +42,12 @@ def extract(text):
             continue
         if len(name) < 2 or len(name) > 14:
             continue
-        # 括号里的日文名：若为空或与中文名相同，跳过判重无用
+        # 维基角色条目的标准格式是「中文名（日文原名，声：…）」，括号内必含假名。
+        # 不含假名的「（…，声：…）」是正文叙述里偶然出现的结构，左侧短串是普通
+        # 名词而非角色名——`老鸨`（猫猫被老鸨打得头破血流）、`皇帝`、`占卜师`、
+        # `女骑士`、`组长` 都是这样被误抽的。实测 1489 条记录里 155 条属此类。
+        if not KANA.search(jp):
+            continue
         out.append((name, jp))
     return out
 

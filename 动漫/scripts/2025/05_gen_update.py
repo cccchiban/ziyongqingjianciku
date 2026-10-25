@@ -99,6 +99,16 @@ def main():
     x4 = util.module_from_spec(spec)
     spec.loader.exec_module(x4)
 
+    # 综合库既有词频：用于识别「职称当角色名」的词。这类词维基确实是角色条目
+    # （`老鸨` 日文名 やり手婆、声优齐藤贵美子，是《药屋少女的呢喃》绿青馆店主），
+    # 但它同时是中文日常词，提频到 710 会挤掉日常候选。判定依据只能是既有词频：
+    # 综合库已按通用词收录的，说明它不是靠动漫才存在。
+    qj = {}
+    for line in (REPO / "综合词库.qj").open(encoding="utf-8", errors="ignore"):
+        parts = line.rstrip("\n").split("\t")
+        if len(parts) >= 3 and parts[0]:
+            qj[parts[0]] = int(parts[2])
+
     # 1) 作品名词面：按季度先后给档（越晚的季度越新、曝光越少）。
     #    同一 src 的第 1 个词面是正式主名，其后的词面是从书名号/空格/破折号
     #    切出的派生片段（`S级怪兽`、`贝希摩斯` 之于
@@ -168,6 +178,12 @@ def main():
         else:
             base = 650
         base += 10 * min(cnt, 6)
+        # 职称当角色名的词（`老鸨`、`老板娘`、`引路人`、`青菜`）：维基确实是角色
+        # 条目（`老鸨` 日文名 やり手婆，声优齐藤贵美子，《药屋少女的呢喃》绿青馆
+        # 店主），但它同时是中文通用词。综合库已按通用词收录的，说明不靠动漫存在，
+        # 压到 650 档，避免挤掉日常候选。
+        if w in qj:
+            base = min(base, 650)
         rows.append({"w": w, "freq": max(300, min(760, base)), "kind": u"角色"})
     print(u"入库 %d（作品 %d、角色 %d），与既有库重复 %d"
           % (len(rows), sum(1 for r in rows if r["kind"] == u"作品"),
