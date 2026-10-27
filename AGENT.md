@@ -214,6 +214,38 @@
 
 `文学作品/词库列表.md` 记录 550 个源词库与各自词条数。
 
+## 发行版
+
+发行版在 GitHub Releases 上发布，四份综合词库产物以 ASCII 名作为资产（单份 60MB+，超 GitHub 推荐的 50MB，不入库）。
+
+| 版本 | 日期 | 综合库条数 | 资产 |
+| --- | --- | --- | --- |
+| v0.0.1 | 2026-10-25 | 1328502 | `zonghe-ciku.tsv`/`.qj`/`.txt`、仓库 zip |
+| v0.0.2 | 2026-10-28 | 1715938 | 上述三份 + `zonghe-ciku.dict.yaml`、仓库 zip |
+
+### 发布流程
+
+1. **准备资产**。把四份产物复制到暂存目录并改成 ASCII 名——`gh release create` 上传中文文件名会失败（文件被重命名为 `default.<ext>`，事后用 `gh api PATCH` 重命名也不生效）。
+   - `综合词库.tsv` → `zonghe-ciku.tsv`、`.qj` → `zonghe-ciku.qj`、`.txt` → `zonghe-ciku.txt`、`.dict.yaml` → `zonghe-ciku.dict.yaml`
+   - 仓库 zip 用 `git archive --format=zip -9 --prefix=ziyongqingjianciku-v<版本>/ -o <out>.zip HEAD` 生成，只含已跟踪文件，自动排除四份派生库。
+2. **打 tag 并推送**：`git tag -a v0.0.2 -m "自用青简词库 v0.0.2"`，推送时加 `GIT_TERMINAL_PROMPT=0 GCM_NO_GUI=1`，否则 GCM 会弹 GUI 认证窗口挂起。
+3. **取凭据**。`gh` 默认身份对该仓库只有 READ 权限（`push: false`），创建 release 必须换成 GCM 里的 `cccchiban` PAT：
+   ```bash
+   export GH_TOKEN=$(printf 'protocol=https\nhost=github.com\nusername=cccchiban\n\n' \
+     | git credential fill | grep ^password= | sed 's/^password=//')
+   ```
+4. **创建 release**：`gh release create v0.0.2 <五个资产> --title "自用青简词库 v0.0.2" --notes-file <notes.md>`。
+5. **核验**，三项都不能省：
+   - `gh release view v0.0.2 --json assets --jq '.assets[] | "\(.name) \(.size) \(.state)"'` 核对名称未被改写、大小与本地一致。
+   - `gh release download` 拉回后比对 md5，确认传输无损。
+   - `unzip -t` 校验 zip 完整性。
+
+### v0.0.2
+
+综合库 1328502 → 1715938（净增 387436），新增 `动物/`（8574 条）与 `植物/`（63397 条）两个名录，其正名与俗名均已并入综合库。本版首次把 `zonghe-ciku.dict.yaml` 作为资产发布（1715934 条、64.74 MiB）。
+
+资产 md5：三份 TSV 均 `d30c2f0f7f3532035c908117d37b7c26`，`dict.yaml` `9568c15e95ef16fd42159f7e27f5c561`，zip `2e72af4857e5c94a74779aa501854435`。
+
 ## Rime 词典
 
 `综合词库.dict.yaml` 是整库一份的 Rime 词典，64.74 MiB、1715934 条，`name: 综合词库`，词序与 `综合词库.tsv` 完全一致。生成脚本 `scripts/gen_rime_dict.py`（由 `综合词库.tsv` 直出，剔除 4 条源库脏数据），校验 `scripts/verify_qj_versions.py`（同时核对 `.qj`/`.tsv`/`.txt` 三份 md5、旧库零丢失零降频、排序与词面唯一性，并逐条对齐 `.dict.yaml`）。**每次合并后必须重跑 `gen_rime_dict.py`**，否则词典与 TSV 分叉。
