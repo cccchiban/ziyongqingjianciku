@@ -1,0 +1,145 @@
+[
+ {
+  "cname": "胡萝卜",
+  "latin": "Daucus carota var. sativus",
+  "syns": [
+   "赛人参"
+  ]
+ },
+ {
+  "cname": "粟",
+  "latin": "Setaria italica var. germanica",
+  "syns": [
+   "谷子",
+   "小米"
+  ]
+ },
+ {
+  "cname": "花椰菜",
+  "latin": "Brassica oleracea var. botrytis",
+  "syns": []
+ },
+ {
+  "cname": "甘蓝",
+  "latin": "Brassica oleracea var. capitata",
+  "syns": [
+   "椰菜",
+   "洋白菜",
+   "圆白菜",
+   "高丽菜",
+   "包菜",
+   "包心菜",
+   "莲花菜",
+   "皱叶甘蓝"
+  ]
+ },
+ {
+  "cname": "仙客来",
+  "latin": "Cyclamen persicum",
+  "syns": [
+   "伊朗仙客来"
+  ]
+ },
+ {
+  "cname": "君子兰",
+  "latin": "Clivia miniata",
+  "syns": [
+   "大花君子兰",
+   "和尚君子兰"
+  ]
+ },
+ {
+  "cname": "常春藤",
+  "latin": "Hedera nepalensis var. sinensis",
+  "syns": [
+   "爬崖藤",
+   "狗姆蛇",
+   "三角藤",
+   "山葡萄",
+   "牛一枫",
+   "三角风",
+   "爬墙虎",
+   "爬树藤",
+   "中华常春藤"
+  ]
+ },
+ {
+  "cname": "水仙",
+  "latin": "Narcissus tazetta subsp. chinensis",
+  "syns": [
+   "中国水仙",
+   "水仙花"
+  ]
+ },
+ {
+  "cname": "百合",
+  "latin": "Lilium brownii var. viridulum",
+  "syns": [
+   "山百合",
+   "香水百合",
+   "天香百合"
+  ]
+ },
+ {
+  "cname": "唐菖蒲",
+  "latin": "Gladiolus × gandavensis",
+  "syns": [
+   "荸荠莲",
+   "菖兰",
+   "剑兰",
+   "十样锦"
+  ]
+ },
+ {
+  "cname": "大丽花",
+  "latin": "Dahlia pinnata",
+  "syns": [
+   "大理花",
+   "大丽菊",
+   "地瓜花",
+   "洋芍药",
+   "苕菊",
+   "大理菊",
+   "西番莲",
+   "天竺牡丹",
+   "苕花"
+  ]
+ },
+ {
+  "cname": "凤尾竹",
+  "latin": "Bambusa multiplex f. fernleaf",
+  "syns": []
+ },
+ {
+  "cname": "红豆杉",
+  "latin": "Taxus wallichiana var. chinensis",
+  "syns": [
+   "观音杉",
+   "红豆树",
+   "扁柏",
+   "卷柏"
+  ]
+ },
+ {
+  "cname": "紫叶李",
+  "latin": "Prunus cerasifera cv. Atropurpurea",
+  "syns": [
+   "红叶李",
+   "真红叶李"
+  ]
+ },
+ {
+  "cname": "王莲",
+  "latin": "Victoria amazonica",
+  "syns": [
+   "亚马逊王莲"
+  ]
+ },
+ {
+  "cname": "风信子",
+  "latin": "Hyacinthus orientalis",
+  "syns": [
+   "洋水仙，五色水仙"
+  ]
+ }
+]

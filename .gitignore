@@ -9,6 +9,21 @@ __pycache__/
 综合词库.qj
 综合词库.tsv
 综合词库.txt
+综合词库.dict.yaml
+综合词库_split/
 
 # 常用词库的原始评论语料合计约 512MB，不入库跟踪，由 download.py 重新拉取。
 常用词/爬取资料/raw/
+
+# 植物词库的分类树节点缓存（可重新抓取，单个文件多，约 50MB）
+植物/scripts/data/raw/
+
+# 植物词库的中间产物（约 15MB，均可由脚本链重新生成）：
+# *_species.json 是分类树汇总、tasks.tsv 是抓取任务清单、
+# syn_bulk.tsv 是俗名汇总、plant_entries.tsv / plant_wordlist.tsv 是词条中间态。
+# 交付物 植物/植物.tsv 与 植物/植物词库.tsv 照常入库。
+植物/scripts/data/*_species.json
+植物/scripts/data/tasks.tsv
+植物/scripts/data/syn_bulk.tsv
+植物/scripts/data/plant_entries.tsv
+植物/scripts/data/plant_wordlist.tsv
